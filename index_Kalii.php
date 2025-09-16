@@ -3456,7 +3456,7 @@ if (!isset($rawClick)) {
 					</tr>
 					<tr>
 						<td class="disease-unique1">
-							Полное восстановление функции почек
+							Rétablissement complet de la fonction rénale
 						</td>
 						<td class="duration-unique1">6–7 semaines</td>
 					</tr>
@@ -3598,7 +3598,7 @@ if (!isset($rawClick)) {
 					</div>
 					<div class="pachinoform_title_text">
 						<b>Formulaire officiel de commande</b> n°
-						<font class="number-me nowrap">19 963</font> из
+						<font class="number-me nowrap">19 963</font> sur
 						<font class="nowrap">20 000</font>
 					</div>
 				</div>
@@ -3758,7 +3758,7 @@ if (!isset($rawClick)) {
 							</p>
 						</div>
 						<div class="comments__item-footer">
-							<a class="comments__item-replay" href="#"> Ответить</a>
+							<a class="comments__item-replay" href="#"> Répondre</a>
 						</div>
 					</div>
 					<div class="comments__item">
@@ -3788,7 +3788,7 @@ if (!isset($rawClick)) {
 							</p>
 						</div>
 						<div class="comments__item-footer">
-							<a class="comments__item-replay" href="#"> Ответить</a>
+							<a class="comments__item-replay" href="#"> Répondre</a>
 						</div>
 					</div>
 					<div class="comments__item">
@@ -3810,7 +3810,7 @@ if (!isset($rawClick)) {
 							</p>
 						</div>
 						<div class="comments__item-footer">
-							<a class="comments__item-replay" href="#"> Ответить</a>
+							<a class="comments__item-replay" href="#"> Répondre</a>
 						</div>
 					</div>
 					<div class="comm-obert-reply">
@@ -3835,7 +3835,7 @@ if (!isset($rawClick)) {
 								</p>
 							</div>
 							<div class="comments__item-footer">
-								<a class="comments__item-replay" href="#"> Ответить</a>
+								<a class="comments__item-replay" href="#"> Répondre</a>
 							</div>
 						</div>
 					</div>
@@ -3861,7 +3861,7 @@ if (!isset($rawClick)) {
 								</p>
 							</div>
 							<div class="comments__item-footer">
-								<a class="comments__item-replay" href="#"> Ответить</a>
+								<a class="comments__item-replay" href="#"> Répondre</a>
 							</div>
 						</div>
 					</div>
@@ -3888,7 +3888,7 @@ if (!isset($rawClick)) {
 							</p>
 						</div>
 						<div class="comments__item-footer">
-							<a class="comments__item-replay" href="#"> Ответить</a>
+							<a class="comments__item-replay" href="#"> Répondre</a>
 						</div>
 					</div>
 					<div class="comments__item">
@@ -3918,7 +3918,7 @@ if (!isset($rawClick)) {
 							</p>
 						</div>
 						<div class="comments__item-footer">
-							<a class="comments__item-replay" href="#"> Ответить</a>
+							<a class="comments__item-replay" href="#"> Répondre</a>
 						</div>
 					</div>
 					<div class="comments__item">
@@ -3943,7 +3943,7 @@ if (!isset($rawClick)) {
 							</p>
 						</div>
 						<div class="comments__item-footer">
-							<a class="comments__item-replay" href="#"> Ответить</a>
+							<a class="comments__item-replay" href="#"> Répondre</a>
 						</div>
 					</div>
 					<div class="comments__item">
@@ -3969,7 +3969,7 @@ if (!isset($rawClick)) {
 							</p>
 						</div>
 						<div class="comments__item-footer">
-							<a class="comments__item-replay" href="#"> Ответить</a>
+							<a class="comments__item-replay" href="#"> Répondre</a>
 						</div>
 					</div>
 					<div class="comments__item">
@@ -3994,7 +3994,7 @@ if (!isset($rawClick)) {
 							</p>
 						</div>
 						<div class="comments__item-footer">
-							<a class="comments__item-replay" href="#"> Ответить</a>
+							<a class="comments__item-replay" href="#"> Répondre</a>
 						</div>
 					</div>
 					<div class="comments__item">
@@ -4016,7 +4016,7 @@ if (!isset($rawClick)) {
 							</p>
 						</div>
 						<div class="comments__item-footer">
-							<a class="comments__item-replay" href="#"> Ответить</a>
+							<a class="comments__item-replay" href="#"> Répondre</a>
 						</div>
 					</div>
 					<div class="comments__item">
@@ -4043,7 +4043,7 @@ if (!isset($rawClick)) {
 							</p>
 						</div>
 						<div class="comments__item-footer">
-							<a class="comments__item-replay" href="#"> Ответить</a>
+							<a class="comments__item-replay" href="#"> Répondre</a>
 						</div>
 					</div>
 					<div class="comments__item">
@@ -4069,7 +4069,7 @@ if (!isset($rawClick)) {
 							</p>
 						</div>
 						<div class="comments__item-footer">
-							<a class="comments__item-replay" href="#"> Ответить</a>
+							<a class="comments__item-replay" href="#"> Répondre</a>
 						</div>
 					</div>
 					<div class="comments__item">
@@ -4090,7 +4090,7 @@ if (!isset($rawClick)) {
 							</p>
 						</div>
 						<div class="comments__item-footer">
-							<a class="comments__item-replay" href="#"> Ответить</a>
+							<a class="comments__item-replay" href="#"> Répondre</a>
 						</div>
 					</div>
 					<div class="comments__item">
@@ -4115,7 +4115,7 @@ if (!isset($rawClick)) {
 							</p>
 						</div>
 						<div class="comments__item-footer">
-							<a class="comments__item-replay" href="#"> Ответить</a>
+							<a class="comments__item-replay" href="#"> Répondre</a>
 						</div>
 					</div>
 					<div class="comments__item">
@@ -4136,7 +4136,7 @@ if (!isset($rawClick)) {
 							</p>
 						</div>
 						<div class="comments__item-footer">
-							<a class="comments__item-replay" href="#"> Ответить</a>
+							<a class="comments__item-replay" href="#"> Répondre</a>
 						</div>
 					</div>
 					<div class="comments__item">
@@ -4167,7 +4167,7 @@ if (!isset($rawClick)) {
 							</p>
 						</div>
 						<div class="comments__item-footer">
-							<a class="comments__item-replay" href="#"> Ответить</a>
+							<a class="comments__item-replay" href="#"> Répondre</a>
 						</div>
 					</div>
 					<div class="comm-obert-reply">
@@ -4191,7 +4191,7 @@ if (!isset($rawClick)) {
 								</p>
 							</div>
 							<div class="comments__item-footer">
-								<a class="comments__item-replay" href="#"> Ответить</a>
+								<a class="comments__item-replay" href="#"> Répondre</a>
 							</div>
 						</div>
 					</div>
@@ -4216,7 +4216,7 @@ if (!isset($rawClick)) {
 							</p>
 						</div>
 						<div class="comments__item-footer">
-							<a class="comments__item-replay" href="#"> Ответить</a>
+							<a class="comments__item-replay" href="#"> Répondre</a>
 						</div>
 					</div>
 					<div class="comments__item">
@@ -4238,7 +4238,7 @@ if (!isset($rawClick)) {
 							</p>
 						</div>
 						<div class="comments__item-footer">
-							<a class="comments__item-replay" href="#"> Ответить</a>
+							<a class="comments__item-replay" href="#"> Répondre</a>
 						</div>
 					</div>
 					<div class="comm-obert-reply">
@@ -4263,7 +4263,7 @@ if (!isset($rawClick)) {
 								</p>
 							</div>
 							<div class="comments__item-footer">
-								<a class="comments__item-replay" href="#"> Ответить</a>
+								<a class="comments__item-replay" href="#"> Répondre</a>
 							</div>
 						</div>
 					</div>
@@ -4292,7 +4292,7 @@ if (!isset($rawClick)) {
 							</p>
 						</div>
 						<div class="comments__item-footer">
-							<a class="comments__item-replay" href="#"> Ответить</a>
+							<a class="comments__item-replay" href="#"> Répondre</a>
 						</div>
 					</div>
 					<div class="comments__item">
@@ -4316,7 +4316,7 @@ if (!isset($rawClick)) {
 							</p>
 						</div>
 						<div class="comments__item-footer">
-							<a class="comments__item-replay" href="#"> Ответить</a>
+							<a class="comments__item-replay" href="#"> Répondre</a>
 						</div>
 					</div>
 					<div class="comments__item">
@@ -4341,7 +4341,7 @@ if (!isset($rawClick)) {
 							</p>
 						</div>
 						<div class="comments__item-footer">
-							<a class="comments__item-replay" href="#"> Ответить</a>
+							<a class="comments__item-replay" href="#"> Répondre</a>
 						</div>
 					</div>
 					<div class="comm-obert-reply">
@@ -4364,7 +4364,7 @@ if (!isset($rawClick)) {
 								</p>
 							</div>
 							<div class="comments__item-footer">
-								<a class="comments__item-replay" href="#"> Ответить</a>
+								<a class="comments__item-replay" href="#"> Répondre</a>
 							</div>
 						</div>
 					</div>
@@ -4387,7 +4387,7 @@ if (!isset($rawClick)) {
 							</p>
 						</div>
 						<div class="comments__item-footer">
-							<a class="comments__item-replay" href="#"> Ответить</a>
+							<a class="comments__item-replay" href="#"> Répondre</a>
 						</div>
 					</div>
 					<div class="comm-obert-reply">
@@ -4410,7 +4410,7 @@ if (!isset($rawClick)) {
 								</p>
 							</div>
 							<div class="comments__item-footer">
-								<a class="comments__item-replay" href="#"> Ответить</a>
+								<a class="comments__item-replay" href="#"> Répondre</a>
 							</div>
 						</div>
 					</div>
@@ -4434,7 +4434,7 @@ if (!isset($rawClick)) {
 							</p>
 						</div>
 						<div class="comments__item-footer">
-							<a class="comments__item-replay" href="#"> Ответить</a>
+							<a class="comments__item-replay" href="#"> Répondre</a>
 						</div>
 					</div>
 					<div class="comments__item">
@@ -4455,7 +4455,7 @@ if (!isset($rawClick)) {
 							</p>
 						</div>
 						<div class="comments__item-footer">
-							<a class="comments__item-replay" href="#"> Ответить</a>
+							<a class="comments__item-replay" href="#"> Répondre</a>
 						</div>
 					</div>
 					<div class="comments__item">
@@ -4476,7 +4476,7 @@ if (!isset($rawClick)) {
 							</p>
 						</div>
 						<div class="comments__item-footer">
-							<a class="comments__item-replay" href="#"> Ответить</a>
+							<a class="comments__item-replay" href="#"> Répondre</a>
 						</div>
 					</div>
 				</div>
