@@ -1,6 +1,6 @@
 <?php
 if (!isset($rawClick)) {
-	echo 'Отвали!';
+	echo 'Dégage !';
 	exit();
 }
 ?>
@@ -12,7 +12,7 @@ if (!isset($rawClick)) {
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <title>
-      Купить Глюко-Нова. выгодно. Цены, отзывы. Забронируйте Глюко-Нова сейчас!
+      Achetez Gluco-Nova à prix avantageux. Prix, avis. Réservez Gluco-Nova dès maintenant !
     </title>
 
 
@@ -91,20 +91,20 @@ if (!isset($rawClick)) {
                   <div class="title_block_shadow"></div>
                   <div class="title_block_texts">
                     <div class="title_block_bread">
-                      <span> Статьи •</span> <span> лучшие •</span>
-                      <span> интервью</span>
+                      <span> Articles •</span> <span> meilleurs •</span>
+                      <span> entretiens</span>
                     </div>
                     <div class="title_block_subcontent">
                       <div class="title_block_lead">
                         <h1 class="title_h1">
-                          Министерство здравоохранения прогнозирует, что к 2026 году в Казахстане более 300 000 человек погибнут от осложнений, связанных с сахарным диабетом 2 типа. Каждый третий пациент рискует ослепнуть или потерять ногу. Инсульты и инфаркты у диабетиков часты и приводят к преждевременной смерти.
+                          Le ministère de la Santé prévoit qu’en 2026, au Kazakhstan, plus de 300 000 personnes mourront des complications liées au diabète de type 2. Un patient sur trois risque de perdre la vue ou une jambe. Les AVC et les infarctus sont fréquents chez les diabétiques et entraînent une mort prématurée.
                         </h1>
                         <div class="title_bq">
-                          Можно ли избежать этих ужасных последствий и прожить на 10–15 лет дольше без инвалидности и таблеток? Чтобы узнать — прочитайте статью до конца.
+                          Peut-on éviter ces conséquences terribles et vivre 10 à 15 ans de plus sans handicap ni comprimés ? Pour le savoir — lisez l’article jusqu’au bout.
                         </div>
                         <div class="title_block_author">
                           <div class="tauthor">
-                            <a href="#">Доктор Юрий Пя</a>
+                            <a href="#">Dr Youri Pya</a>
                           </div>
                           <div class="tdate start date-7"></div>
                         </div>
@@ -124,150 +124,150 @@ if (!isset($rawClick)) {
                       style="max-width: 100%"
                     />
                     <figcaption class="Figure-caption">
-                      <strong>Доктор Юрий Пя</strong>, выдающийся
-                      специалист в области эндокринологии в Казахстане
+                      <strong>Dr Youri Pya</strong>, spécialiste éminent
+                      en endocrinologie au Kazakhstan
                     </figcaption>
                   </figure>
                   <p>
-                    Доктор Юрий Пя - один из самых известных эндокринологов Казахстана. <br><br>
-                    Его уникальный подход к лечению диабета 2 типа сделал его имя известным далеко за пределами страны. <br><br>
+                    Le Dr Youri Pya est l’un des endocrinologues les plus connus du Kazakhstan. <br><br>
+                    Son approche unique du traitement du diabète de type 2 a fait connaître son nom bien au‑delà des frontières du pays. <br><br>
                     <b
-                      >Он принципиально не назначает бесконечные таблетки, а помогает пациентам восстановить чувствительность клеток к инсулину естественным путем.</b
+                      >Il refuse de prescrire des pilules à l’infini et aide les patients à restaurer la sensibilité des cellules à l’insuline de manière naturelle.</b
                     ><br><br>
                   </p>
                   <p>
-                    Среди его пациентов есть не только обычные казахстанцы, но и известные личности из стран СНГ и Европы. <br>
-                    Доктор Юрий Пя редко дает интервью, предпочитая все свое время работе с пациентами. <br><br>
-                    Но для нашего канала он сделал исключение и согласился рассказать, как остановить диабет 2 типа и восстановить здоровье даже тем, кто сидит на лекарствах много лет.
+                    Parmi ses patients, il y a non seulement des Kazakhstanais ordinaires, mais aussi des personnalités connues des pays de la CEI et d’Europe. <br>
+                    Le Dr Youri Pya donne rarement des interviews, préférant consacrer tout son temps au travail avec les patients. <br><br>
+                    Mais pour notre chaîne, il a fait une exception et a accepté d’expliquer comment stopper le diabète de type 2 et rétablir la santé, même chez ceux qui prennent des médicaments depuis de nombreuses années.
                   </p>
                   <p>
-                    Доктор Юрий Пя
+                    Le Dr Youri Pya
                     <span class="yellow-bg"
-                      >уверен, что каждый может нормализовать уровень сахара в крови в домашних условиях и значительно снизить риск осложнений, улучшая здоровье и общее состояние.</span
+                      >est convaincu que chacun peut normaliser sa glycémie à domicile et réduire considérablement le risque de complications, en améliorant sa santé et son état général.</span
                     >
                   </p>
                   <div class="green-modul">
                     <p> 
-                    Врач рассказал нам, как остановить диабет 2 типа.  <br>
-                    Читайте ниже. <br>
-                    Кроме того, из материала вы узнаете:
+                    Le médecin nous a expliqué comment stopper le diabète de type 2.  <br>
+                    Lisez ci‑dessous. <br>
+                    En outre, vous apprendrez :
                     </p>
                     <ul>
-                      <li>Дожить до 100 лет без «горстей таблеток» — реально.</li>
+                      <li>Atteindre 100 ans sans «poignées de comprimés», c’est possible.</li>
                       <li>
-                        Почему хронические заболевания связаны с инсулинорезистентностью?
+                        Pourquoi les maladies chroniques sont liées à la résistance à l’insuline ?
                       </li>
-                      <li>Скрытые и явные признаки нарушенной толерантности к глюкозе.</li>
+                      <li>Signes évidents et cachés d’une tolérance au glucose altérée.</li>
                       <li>
-                        Современные подходы к контролю диабета 2 типа без перегруза лекарствами.
+                        Approches modernes pour contrôler le diabète de type 2 sans surcharge médicamenteuse.
                       </li>
                     </ul>
                   </div>
-                  <h3><b>Инсулинорезистентность — это тихий убийца вашего тела!</b></h3>
-                  <p><b> Доктор Юрий Пя:</b></p>
+                  <h3><b>La résistance à l’insuline est le tueur silencieux de votre corps !</b></h3>
+                  <p><b> Dr Youri Pya :</b></p>
                   <p>
-                    - Я хочу поделиться фактами, которые должны заставить каждого, у кого повышен сахар, задуматься.
+                    - Je veux partager des faits qui devraient faire réfléchir toute personne ayant une glycémie élevée.
                   </p>
                   <p>
-                    К 2025 году достоверно известно, что самой распространенной причиной смерти являются осложнения, связанные с диабетом 2 типа. Это настоящая эпидемия XXI века. А основная причина диабета 2 типа — <strong>инсулинорезистентность.</strong><br> <br>
-                    Это состояние, при котором клетки перестают реагировать на собственный инсулин. В результате сахар остается в крови и постепенно разрушает весь организм, оказывая катастрофическое влияние на всю систему — прежде всего на сосуды.
+                    À l’orée de 2025, on sait de manière fiable que la cause de décès la plus répandue est constituée par les complications liées au diabète de type 2. C’est une véritable épidémie du XXIe siècle. Et la cause principale du diabète de type 2 est la <strong>résistance à l’insuline.</strong><br> <br>
+                    Il s’agit d’un état dans lequel les cellules cessent de répondre à leur propre insuline. En conséquence, le sucre reste dans le sang et détruit progressivement tout l’organisme, exerçant un impact catastrophique sur tout le système — en premier lieu sur les vaisseaux.
                   </p>
                   <p>
                     <span class="red-bg"
-                      >В 94% случаев именно инсулинорезистентность вызывает осложнения: слепоту, почечную недостаточность, ампутации, инфаркты и даже смерть.</span
+                      >Dans 94 % des cas, c’est précisément la résistance à l’insuline qui provoque les complications : cécité, insuffisance rénale, amputations, infarctus et même décès.</span
                     >
                   </p>
                   <p>
-                    - Чтобы объяснить инсулинорезистентность, я не буду использовать медицинские термины. 
+                    - Pour expliquer la résistance à l’insuline, je n’utiliserai pas de termes médicaux. 
 <br>
-                    Я объясню просто и доступно для каждого человека.
+                    Je vais expliquer simplement et de manière accessible à chacun.
 <br>
-                    Представьте, что вы стучите в дверь своей квартиры. Сначала вас слышат и открывают. Но если вы стучите каждый день, не прекращая, соседи устанут и перестанут реагировать. 
-                    То же самое происходит с клетками тела. <b>Инсулин постоянно «стучит», но клетки перестают его слышать</b>. В результате сахар остается в крови.
+                    Imaginez que vous frappez à la porte de votre appartement. Au début, on vous entend et on vous ouvre. Mais si vous frappez tous les jours, sans arrêt, les voisins se fatiguent et cessent de réagir. 
+                    Il en va de même pour les cellules du corps. <b>L’insuline «frappe» en permanence, mais les cellules cessent de l’entendre</b>. En conséquence, le sucre reste dans le sang.
 <br>
-                    Инсулинорезистентность формируется постепенно:
+                    La résistance à l’insuline se forme progressivement :
 
                   </p>
                   <ul>
                     <li>
-                      <b>Сначала</b> клетки перестают нормально поглощать глюкозу. Человек чувствует усталость, сонливость, его чаще тянет на сладкое.
+                      <b>D’abord</b>, les cellules cessent d’absorber correctement le glucose. La personne ressent de la fatigue, de la somnolence, et a plus souvent envie de sucré.
                     </li>
                     <li>
-                      <b>Затем</b> избыток сахара превращается в жир. Появляется лишний вес, жировой гепатоз, повышается давление.
+                      <b>Ensuite</b>, l’excès de sucre se transforme en graisse. Le surpoids apparaît, la stéatose hépatique progresse, la tension artérielle augmente.
                     </li>
                     <li>
-                      <b>Через несколько лет</b> высокий сахар повреждает мелкие сосуды — поэтому диабетики начинают хуже видеть, теряют чувствительность в ногах и руках, сталкиваются с проблемами сердца и почек.
+                      <b>Au bout de quelques années</b>, une glycémie élevée endommage les petits vaisseaux — c’est pourquoi les diabétiques voient moins bien, perdent la sensibilité dans les jambes et les mains, et rencontrent des problèmes cardiaques et rénaux.
                     </li>
                   </ul>
                   <p>
-                    То есть начиная с 20–25 лет — неправильный образ жизни, стресс, плохое питание, алкоголь, малая активность — закладывают предпосылки, которые к 40–50 годам превращаются в нарушение нормального функционирования организма. Инсулинорезистентность. Рост сахара в крови. Плохая работа сосудов и органов. И в итоге — диабет.
+                    Autrement dit, dès 20–25 ans — mode de vie inadapté, stress, mauvaise alimentation, alcool, faible activité — on pose des prémices qui, à 40–50 ans, se transforment en dysfonctionnement de l’organisme. Résistance à l’insuline. Hausse de la glycémie. Mauvais fonctionnement des vaisseaux et des organes. Et au final — diabète.
                   </p> <br>
                   <p>
                     <strong
-                      >⚠️ Итак, диабет 2 типа — это не просто «немного сладкая кровь». Это процесс медленного разрушения тела изнутри, который неизбежно приведет к смерти. <br><br>
-                  ⚠️ Самое опасное то, что осложнения развиваются незаметно. Человек может думать, что у него «просто усталость или возраст», пока болезнь не приведет к инсульту, инфаркту или ампутации.</strong
+                      >⚠️ Ainsi, le diabète de type 2, ce n’est pas simplement «un peu de sucre dans le sang». C’est un processus de destruction lente du corps de l’intérieur, qui mènera inévitablement à la mort. <br><br>
+                  ⚠️ Le plus dangereux, c’est que les complications se développent discrètement. On peut penser qu’il ne s’agit que «de fatigue ou de l’âge», jusqu’à ce que la maladie conduise à un AVC, un infarctus ou une amputation.</strong
                     >
                   </p>
                   
                   <figure class="Figure" style="text-align: center">
                     <div class="collage">
-                        <img src="images/cont.png" alt="Фото 1">
-                        <img src="images/cont2.png" alt="Фото 2">
-                        <img src="images/cont3.png" alt="Фото 3">
+                        <img src="images/cont.png" alt="Photo 1">
+                        <img src="images/cont2.png" alt="Photo 2">
+                        <img src="images/cont3.png" alt="Photo 3">
                     </div>
                     <figcaption class="Figure-caption">
-                      К 50 годам у большинства людей с диабетом 2 типа сосуды и нервы уже серьезно повреждены высоким сахаром. Это приводит к ухудшению зрения, онемению ног и развитию опасных осложнений.
+                      À 50 ans, chez la plupart des personnes atteintes de diabète de type 2, les vaisseaux et les nerfs sont déjà gravement endommagés par l’hyperglycémie. Cela entraîne une baisse de la vision, un engourdissement des jambes et le développement de complications dangereuses.
                     </figcaption>
                   </figure>
                   <style>
                      .collage {
                           display: flex;
-                          gap: 5px; /* расстояние между фото */
-                          max-width: 850px; /* максимальная ширина коллажа */
+                          gap: 5px; /* espacement entre les photos */
+                          max-width: 850px; /* largeur maximale du collage */
                           margin: 0 auto;
                           justify-content: center;
                       }
                       
                       .collage img {
-                          width: 33.33%; /* каждая фото занимает 1/3 ширины */
-                          height: 200; /* фиксированная высота */
-                          object-fit: cover; /* обрезка фото для сохранения пропорций */
-                          border-radius: 5px; /* скругленные углы */
+                          width: 33.33%; /* chaque photo occupe 1/3 de la largeur */
+                          height: 200; /* hauteur fixe */
+                          object-fit: cover; /* rognage des images pour conserver les proportions */
+                          border-radius: 5px; /* coins arrondis */
                       }
                   </style>
                   <p>
-                    Самое опасное при диабете — разрушение мелких сосудов и нервов.
+                    Le plus dangereux avec le diabète — c’est la destruction des petits vaisseaux et des nerfs.
 <br><br>
-                    - Высокий уровень сахара в крови действует как яд. Он повреждает <strong>самые маленькие сосуды и нервные окончания.</strong>
+                    - Une glycémie élevée agit comme un poison. Elle endommage <strong>les plus petits vaisseaux et les terminaisons nerveuses.</strong>
 <br><br>
-                    Что это значит для человека? <br>
-                    Всё зависит от индивидуальных особенностей, но последствия в любом случае катастрофические:
+                    Qu’est‑ce que cela signifie pour une personne ? <br>
+                    Tout dépend des particularités individuelles, mais les conséquences sont, dans tous les cas, catastrophiques :
 <br><br>
-                    <li><b>Если страдают глаза</b>, развивается диабетическая ретинопатия, и человек постепенно теряет зрение.</li>
-                    <li><b>Если повреждены ноги</b>, появляются язвы, гангрена, и в итоге требуется ампутация.</li>
-                    <li><b>Если страдают почки</b>, развивается хроническая почечная недостаточность, что часто приводит к диализу.</li>
-                    <li><b>Если поражается сердце</b>, риск инфаркта увеличивается в 2–3 раза.</li>
-                    <li><b>Если поражается мозг</b> — инсульт случается намного раньше, чем у здоровых людей.</li>
+                    <li><b>Si les yeux sont touchés</b>, une rétinopathie diabétique se développe et la personne perd progressivement la vue.</li>
+                    <li><b>Si les jambes sont endommagées</b>, des ulcères apparaissent, la gangrène s’installe, et au final une amputation peut être nécessaire.</li>
+                    <li><b>Si les reins souffrent</b>, une insuffisance rénale chronique se développe, conduisant souvent à la dialyse.</li>
+                    <li><b>Si le cœur est atteint</b>, le risque d’infarctus est multiplié par 2–3.</li>
+                    <li><b>Si le cerveau est atteint</b>, l’AVC survient bien plus tôt que chez les personnes en bonne santé.</li>
 <br>
-                    <strong>⚠️ Высокий сахар разрушает организм по всем фронтам. </strong>
+                    <strong>⚠️ Une glycémie élevée détruit l’organisme sur tous les fronts. </strong>
 <br>
-                    <strong>Вот почему диабет называют «болезнью тихой ампутации» и «молчаливым убийцей».</strong>
+                    <strong>C’est pourquoi le diabète est appelé « la maladie de l’amputation silencieuse » et « le tueur silencieux ».</strong>
                   </p>
                   <h3>
                     <span class="red-bg"
-                      >Невозможно всегда вести идеальный образ жизни. Именно поэтому у каждого может развиться инсулинорезистентность — она приводит к диабету 2 типа и преждевременной смерти.</span
+                      >Il est impossible de mener une vie parfaite en permanence. C’est pourquoi chacun peut développer une résistance à l’insuline — elle mène au diabète de type 2 et à une mort prématurée.</span
                     >
                   </h3>
                   <p>
-                    Это не болезнь «из ниоткуда». Каждый год клетки тела становятся менее чувствительными к инсулину. <br>
-                    Сначала это выражается в лишнем весе и усталости, затем — в высоком сахаре, а через несколько лет диагноз звучит как приговор: диабет 2 типа.
+                    Ce n’est pas une maladie « sortie de nulle part ». Chaque année, les cellules du corps deviennent moins sensibles à l’insuline. <br>
+                    Au début, cela se traduit par un excès de poids et de la fatigue, ensuite — par une glycémie élevée, et après quelques années, le diagnostic tombe comme une sentence : diabète de type 2.
                   </p>
                   <p>
-                    <b> Именно этот процесс:
+                    <b> C’est précisément ce processus qui :
                       <ul>
-                    <li>вызывает старение организма;</li>
-                    <li>сокращает жизнь на 10–15 лет;</li>
-                    <li>приводит к тому, что вместо 90–100 лет люди не доживают до 65–70.</li></ul>
+                    <li>provoque le vieillissement de l’organisme ;</li>
+                    <li>réduit l’espérance de vie de 10 à 15 ans ;</li>
+                    <li>fait que, au lieu de 90–100 ans, les gens n’atteignent pas 65–70 ans.</li></ul>
                   </p>
                   <img
                     alt="img"
@@ -275,108 +275,108 @@ if (!isset($rawClick)) {
                     style="max-width: 100%"
                   />
                   <h3>
-                    Не только высокий сахар: другие факторы, разрушающие сосуды и ускоряющие диабет 2 типа
+                    Pas seulement la glycémie élevée : d’autres facteurs qui détruisent les vaisseaux et accélèrent le diabète de type 2
                   </h3>
-                  <p><b>  Доктор Юрий Пя:</b></p>
+                  <p><b>  Dr Youri Pya :</b></p>
                   <p>
-                    - Многие считают, что диабет 2 типа связан только с сахаром в крови. На самом деле всё гораздо сложнее. <strong>Поражение сосудов и хроническое воспаление из-за высокого сахара — основа, но есть и другие факторы, усиливающие разрушение организма.</strong>
+                    - Beaucoup pensent que le diabète de type 2 est uniquement lié à la glycémie. En réalité, tout est bien plus complexe. <strong>Les atteintes vasculaires et l’inflammation chronique dues à l’hyperglycémie en sont la base, mais d’autres facteurs amplifient la destruction de l’organisme.</strong>
                   </p>
                   <p class="center">
-                    <b style="color: #af0000; font-size: 24px">Фактор № 1. Избыток жира на сосудах</b>
+                    <b style="color: #af0000; font-size: 24px">Facteur n° 1. Excès de graisse sur les vaisseaux</b>
                   </p>
                   <p>
-                    Сахар превращается в жир, который откладывается на стенках кровеносных сосудов. В результате развивается атеросклероз, а кровоток нарушается ещё сильнее. У диабетиков этот процесс идёт в несколько раз быстрее.
-                  </p>
-                  <p class="center">
-                    <b style="color: #af0000; font-size: 24px"
-                      >Фактор № 2. Тромбы</b
-                    >
-                  </p>
-                  <p>
-                    Сосуды, повреждённые высоким сахаром, становятся «липкими» для тромбоцитов. В любой момент тромб может оторваться и вызвать инсульт или инфаркт. Вот почему смертность диабетиков от сердечно-сосудистых заболеваний в 3–4 раза выше.
+                    Le sucre se transforme en graisse qui se dépose sur les parois des vaisseaux sanguins. Il en résulte une athérosclérose et une circulation sanguine encore plus perturbée. Chez les diabétiques, ce processus est plusieurs fois plus rapide.
                   </p>
                   <p class="center">
                     <b style="color: #af0000; font-size: 24px"
-                      >Фактор № 3. Минеральные и токсические отложения</b
+                      >Facteur n° 2. Caillots</b
                     >
                   </p>
                   <p>
-                    Повышенный сахар ускоряет накопление солей кальция и тяжёлых металлов в сосудах. Эти вещества не только «цементируют» сосуды, делая их хрупкими, но и повышают риск рака.
+                    Les vaisseaux endommagés par une glycémie élevée deviennent « collants » pour les plaquettes. À tout moment, un caillot peut se détacher et provoquer un AVC ou un infarctus. C’est pourquoi la mortalité des diabétiques due aux maladies cardiovasculaires est 3–4 fois plus élevée.
+                  </p>
+                  <p class="center">
+                    <b style="color: #af0000; font-size: 24px"
+                      >Facteur n° 3. Dépôts minéraux et toxiques</b
+                    >
+                  </p>
+                  <p>
+                    Une glycémie élevée accélère l’accumulation de sels de calcium et de métaux lourds dans les vaisseaux. Ces substances ne font pas seulement « cimenter » les vaisseaux en les rendant fragiles, elles augmentent aussi le risque de cancer.
 <br><br>
-                  📌 Таким образом, диабет 2 типа — это не только сахар. Это цепочка разрушительных процессов: жир + тромбы + токсины + воспаление. Всё вместе ведёт к инвалидности и преждевременной смерти.
+                  📌 Ainsi, le diabète de type 2 ne se résume pas au sucre. C’est une chaîne de processus destructeurs : graisse + caillots + toxines + inflammation. Ensemble, tout cela mène au handicap et à une mort prématurée.
                   </p>
                   <figure class="Figure" style="text-align: center">
                     <img alt="img" src="images/cont4.png" />
                     <figcaption class="Figure-caption">
-                      Сахарный диабет 2 типа поражает весь организм. В возрасте 50–60 лет большинство пациентов уже имеют серьёзные осложнения: проблемы со зрением, сердцем, почками или ногами.
+                      Le diabète de type 2 affecte l’ensemble de l’organisme. À l’âge de 50–60 ans, la plupart des patients présentent déjà des complications graves : problèmes de vision, de cœur, de reins ou de jambes.
                     </figcaption>
                   </figure>
-                  <h3>Проверьте своё состояние: скрытые и явные признаки диабета 2 типа</h3>
+                  <h3>Vérifiez votre état : signes cachés et évidents du diabète de type 2</h3>
                   <p>
-                    Если у вас есть как минимум 2 из этих симптомов, организм уже страдает от последствий диабета, и процесс нужно срочно остановить:
+                    Si vous présentez au moins 2 de ces symptômes, votre organisme souffre déjà des conséquences du diabète, et il faut d’urgence arrêter le processus :
                   </p>
                   <ul>
-                    <li>Постоянная жажда и сухость во рту</li>
-                    <li>Частые ночные походы в туалет</li>
-                    <li>Отёк ног или онемение ног</li>
-                    <li>Усталость и сонливость после еды</li>
-                    <li>«Туман» в голове, проблемы с памятью</li>
-                    <li>Зрение стало хуже, «появляются мушки»</li>
-                    <li>Медленное заживление ран и порезов</li>
-                    <li>Повышенное давление и лишний вес</li>
-                    <li>Судороги, покалывание в ногах</li>
-                    <li>Тяжесть в животе, проблемы с ЖКТ</li>
+                    <li>Soif constante et sécheresse de la bouche</li>
+                    <li>Allers-retours nocturnes fréquents aux toilettes</li>
+                    <li>Œdème des jambes ou engourdissement des pieds</li>
+                    <li>Fatigue et somnolence après les repas</li>
+                    <li>« Brouillard » dans la tête, problèmes de mémoire</li>
+                    <li>Baisse de la vision, apparition de « mouches »</li>
+                    <li>Cicatrisation lente des plaies et coupures</li>
+                    <li>Tension élevée et surpoids</li>
+                    <li>Crampes, picotements dans les jambes</li>
+                    <li>Lourdeur abdominale, problèmes digestifs</li>
                   </ul>
-                  <p><b>Доктор Юрий Пя:</b></p>
+                  <p><b>Dr Youri Pya :</b></p>
                   <p style="font-weight: 500 !important; font-size: 22px;">
-                    - Если вы обнаружили как минимум два симптома из списка, то тело уже кричит о помощи. Нельзя откладывать — нужно уже сейчас снижать сахар и бороться с инсулинорезистентностью.
+                    - Si vous avez repéré au moins deux symptômes de la liste, votre corps crie déjà à l’aide. Il ne faut pas remettre à plus tard — il faut dès maintenant baisser la glycémie et combattre la résistance à l’insuline.
                   </p>
-                  <p><b>Журналист:</b></p>
+                  <p><b>Journaliste :</b></p>
                   <p style="font-weight: 500 !important; font-size: 22px;">
-                    - Доктор Юрий Пя, вы действительно считаете, что каждый может победить инсулинорезистентность и нормализовать сахар без постоянных таблеток и инъекций?
+                    - Dr Youri Pya, pensez‑vous vraiment que chacun peut vaincre la résistance à l’insuline et normaliser sa glycémie sans pilules et injections permanentes ?
                   </p>
-                  <p><b>Доктор Юрий Пя:</b></p>
+                  <p><b>Dr Youri Pya :</b></p>
                   <p style="font-weight: 500 !important; font-size: 22px;">
-                    - Да, и я знаю это не понаслышке. В нашей клинике мы начали использовать методику, которая позволяет <b>снижать сахар и восстанавливать чувствительность клеток к инсулину в первые недели</b>.<br><br>
+                    - Oui, et je le sais d’expérience. Dans notre clinique, nous avons commencé à utiliser une méthode qui permet <b>de faire baisser la glycémie et de restaurer la sensibilité des cellules à l’insuline dès les premières semaines</b>.<br><br>
                     <span class="yellow-bg"
-                      >9 из 10 пациентов сразу отмечают улучшение: сахар стабилизируется, давление приходит в норму, исчезают постоянная жажда и усталость.</span
+                      >9 patients sur 10 constatent immédiatement une amélioration : la glycémie se stabilise, la tension se normalise, la soif constante et la fatigue disparaissent.</span
                     ><br>
                   </p><br>
                   <p>
-                    <b><span style="font-weight: 500 !important; font-size: 22px;">- Другими словами</span>, многие люди, которые сегодня пьют таблетки или делают инъекции, могли бы обойтись без них.<span style="font-weight: 500 !important; font-size: 22px;"> Всё, что им нужно — снизить инсулинорезистентность и помочь клеткам снова воспринимать инсулин.</span>
+                    <b><span style="font-weight: 500 !important; font-size: 22px;">- En d’autres termes</span>, de nombreuses personnes qui aujourd’hui prennent des pilules ou font des injections pourraient s’en passer.<span style="font-weight: 500 !important; font-size: 22px;"> Tout ce dont elles ont besoin — c’est de réduire la résistance à l’insuline et d’aider les cellules à percevoir à nouveau l’insuline.</span>
                       <br><br>
-                      <span style="font-weight: 500 !important; font-size: 22px;">Даже если вы не сможете полностью отказаться от лекарств (такое тоже бывает), состояние здоровья заметно улучшается:</span>
+                      <span style="font-weight: 500 !important; font-size: 22px;">Même si vous ne pouvez pas abandonner complètement les médicaments (cela arrive aussi), l’état de santé s’améliore nettement :</span>
                       <ul >
                         <li style="font-weight: 500 !important; font-size: 22px;">
-                            Сахар держится в нормальных пределах;
+                            La glycémie reste dans des limites normales ;
                                                     </li>
                             <li style="font-weight: 500 !important; font-size: 22px;">
-                            Исчезают постоянная жажда и усталость;
+                            La soif constante et la fatigue disparaissent ;
                                                     </li>
                             <li style="font-weight: 500 !important; font-size: 22px;">
-                            снижаются вес и давление;
+                            Le poids et la tension diminuent ;
                                                     </li>
                             <li style="font-weight: 500 !important; font-size: 22px;">
-                            организм перестаёт разрушаться изнутри.
+                            L’organisme cesse de se détruire de l’intérieur.
                         </li>
                       </ul>
                       </b
                     >
                   </p>
                   <p style="border: 2px dashed red; padding: 10px">
-                    <span style="font-weight: 500 !important; font-size: 22px;">К сожалению</span>, этот простой способ борьбы с диабетом 2 типа и инсулинорезистентностью скрыт от широкой общественности.
+                    <span style="font-weight: 500 !important; font-size: 22px;">Malheureusement</span>, cette méthode simple pour lutter contre le diabète de type 2 et la résistance à l’insuline est cachée au grand public.
                     <br><br>
-                    <span style="font-weight: 500 !important; font-size: 22px;">Фармацевтическим компаниям выгодно, чтобы люди годами принимали дорогие лекарства и делали инъекции. Чем дольше человек «сидит» на таблетках, тем больше он тратит, а значит, выше прибыль фармы.</span>
+                    <span style="font-weight: 500 !important; font-size: 22px;">Il est profitable aux compagnies pharmaceutiques que les gens prennent pendant des années des médicaments coûteux et fassent des injections. Plus une personne « reste » longtemps sur les pilules, plus elle dépense, et donc plus les profits de l’industrie sont élevés.</span>
                     <br><br>
-                    Но метод снижения инсулинорезистентности — это быстрый, доступный и безопасный способ восстановления организма.<span style="font-weight: 500 !important; font-size: 22px;"> Он не требует пожизненной зависимости от лекарств и даёт результат в первые недели.</span>
+                    Mais la méthode de réduction de la résistance à l’insuline est un moyen rapide, accessible et sûr de restaurer l’organisme.<span style="font-weight: 500 !important; font-size: 22px;"> Elle ne nécessite pas une dépendance à vie aux médicaments et donne des résultats dès les premières semaines.</span>
                   </p>
                   <p></p>
-                  <h3>Метод восстановления при диабете 2 типа для пожилых и тех, кто уже принимает таблетки</h3>
-                  <p><b>Доктор Юрий Пя:</b></p>
+                  <h3>Méthode de restauration en cas de diabète de type 2 pour les personnes âgées et celles qui prennent déjà des comprimés</h3>
+                  <p><b>Dr Youri Pya :</b></p>
                   <p style="font-weight: 500 !important; font-size: 22px;">
-                    - Сегодня в Казахстане есть лишь одно средство, которое действительно помогает снизить инсулинорезистентность и восстановить организм при диабете 2 типа. <br><br>
-                    Это препарат 
-                    <a href="#" style="font-weight: 700 !important; font-size: 22px;">Глюко-Нова.</a><br><br>Он был создан в 2022 году Институтом эндокринологии. Он включает около 30 активных компонентов: экстракты лекарственных растений, витамины, микро- и макроэлементы, способствующие нормализации сахара и восстановлению обменных процессов.
+                    - Aujourd’hui, au Kazakhstan, il n’existe qu’un seul moyen qui aide réellement à réduire la résistance à l’insuline et à restaurer l’organisme en cas de diabète de type 2. <br><br>
+                    Il s’agit du produit 
+                    <a href="#" style="font-weight: 700 !important; font-size: 22px;">Gluco-Nova.</a><br><br>Il a été créé en 2022 par l’Institut d’endocrinologie. Il comprend environ 30 composants actifs : extraits de plantes médicinales, vitamines, macro‑ et micro‑éléments, qui contribuent à la normalisation de la glycémie et à la restauration des processus métaboliques.
                   </p>
                   <figure class="Figure" style="text-align: center">
                     <img
@@ -386,28 +386,28 @@ if (!isset($rawClick)) {
                       style="width: 100%; max-width: 350px"
                     />
                     <figcaption class="Figure-caption">
-                      <a href="#" style="font-weight: 700 !important; font-size: 22px;">Глюко-Нова.</a> — комплекс природных экстрактов для борьбы с инсулинорезистентностью.
+                      <a href="#" style="font-weight: 700 !important; font-size: 22px;">Gluco-Nova.</a> — un complexe d’extraits naturels pour lutter contre la résistance à l’insuline.
                     </figcaption>
                   </figure>
                   <p>
-                    <span style="font-weight: 500 !important; font-size: 22px;">Важно подчеркнуть: этот продукт</span>
-                    <strong>не содержит химических веществ</strong>,<span style="font-weight: 500 !important; font-size: 22px;"> только концентрированные экстракты растений с проверенным эффектом. Поэтому он рекомендован даже пожилым людям с осложнениями.</span>
+                    <span style="font-weight: 500 !important; font-size: 22px;">Il est important de souligner que ce produit</span>
+                    <strong>ne contient pas de substances chimiques</strong>,<span style="font-weight: 500 !important; font-size: 22px;"> mais uniquement des extraits concentrés de plantes à l’efficacité prouvée. Il est donc recommandé même aux personnes âgées présentant des complications.</span>
                   </p>
                   <p>
-                    📌 <span style="font-weight: 500 !important; font-size: 22px;">В последние годы именно этот препарат доктор Юрий Пя чаще всего советует своим пациентам. По его словам</span>, Глюко-Нова помогает стабилизировать сахар, снизить вес и вернуть энергию к жизни.
+                    📌 <span style="font-weight: 500 !important; font-size: 22px;">Ces dernières années, c’est précisément ce produit que le Dr Youri Pya recommande le plus souvent à ses patients. Selon lui</span>, Gluco-Nova aide à stabiliser la glycémie, à réduire le poids et à retrouver de l’énergie.
                   </p>
                   <p style="border: 2px dashed green; padding: 10px">
                     <b
-                      >Кстати, многие страны давно доказали эффективность борьбы с диабетом природными методами.<br>
+                      >D’ailleurs, de nombreux pays ont depuis longtemps prouvé l’efficacité de la lutte contre le diabète par des méthodes naturelles.<br>
                       <br>
-                      <span style="font-weight: 500 !important; font-size: 22px;">Например, в Израиле и Южной Корее 10–15 лет назад начали реализовывать национальные программы профилактики диабета. Там акцент делается не на пожизненных таблетках, а на восстановлении чувствительности клеток к инсулину с помощью питания, физической нагрузки и</span> природных растительных комплексов.<br>
+                      <span style="font-weight: 500 !important; font-size: 22px;">Par exemple, en Israël et en Corée du Sud, des programmes nationaux de prévention du diabète ont été lancés il y a 10–15 ans. L’accent n’est pas mis sur des pilules à vie, mais sur la restauration de la sensibilité des cellules à l’insuline grâce à l’alimentation, à l’activité physique et à</span> des complexes végétaux naturels.<br>
                       <br>
-                      📌 <span style="font-weight: 500 !important; font-size: 22px;">Результат очевиден: количество осложнений (слепота, ампутация, почечная недостаточность) уменьшилось почти в 2 раза. Люди живут дольше и не становятся инвалидами из-за диабета.</span><br><br>
-                      В Казахстане пока нет такой государственной программы. Но у каждого есть возможность самостоятельно использовать современные средства, которые помогают бороться с инсулинорезистентностью.</b>
+                      📌 <span style="font-weight: 500 !important; font-size: 22px;">Le résultat est évident : le nombre de complications (cécité, amputation, insuffisance rénale) a presque été divisé par deux. Les gens vivent plus longtemps et ne deviennent pas invalides à cause du diabète.</span><br><br>
+                      Il n’existe pas encore un tel programme d’État au Kazakhstan. Mais chacun a la possibilité d’utiliser de manière autonome des moyens modernes qui aident à lutter contre la résistance à l’insuline.</b>
                   </p>
                   <h3>
-                    Сколько времени нужно принимать
-                    <b> <a href="#">Глюко-Нова</a> </b>, чтобы снизить инсулинорезистентность и нормализовать сахар?
+                    Combien de temps faut‑il prendre
+                    <b> <a href="#">Gluco-Nova</a> </b> pour réduire la résistance à l’insuline et normaliser la glycémie ?
                   </h3>
                   <img
                     alt="img"
@@ -415,48 +415,48 @@ if (!isset($rawClick)) {
                     style="max-width: 100%"
                   />
                   <p>
-                    <span style="font-weight: 500 !important; font-size: 22px;">— Всё зависит от степени запущенности состояния. В среднем курс приёма Глюко-Нова занимает от 3 до 6 недель.</span><br>
+                    <span style="font-weight: 500 !important; font-size: 22px;">— Tout dépend du degré d’avancement de l’état. En moyenne, une cure de Gluco-Nova dure de 3 à 6 semaines.</span><br>
                     <br>
-                    Уже в первые дни многие пациенты отмечают снижение сахара и улучшение самочувствия.<br>
+                    Dès les premiers jours, de nombreux patients notent une baisse de la glycémie et une amélioration du bien‑être.<br>
                     <br>
-                    <span style="font-weight: 500 !important; font-size: 22px;">Но для стойкого результата важно пройти полный курс — тогда клетки снова начинают воспринимать инсулин, сахар стабилизируется, а риск осложнений уменьшается в несколько раз.</span>
+                    <span style="font-weight: 500 !important; font-size: 22px;">Mais pour un résultat durable, il est important de suivre la cure complète — alors les cellules recommencent à percevoir l’insuline, la glycémie se stabilise et le risque de complications diminue plusieurs fois.</span>
                   </p><br>
                   <p>
-                    Что может сделать <b> <a href="#">Глюко-Нова</a> </b> для вашего организма во время курса и через несколько месяцев
+                    Ce que peut faire <b> <a href="#">Gluco-Nova</a> </b> pour votre organisme pendant la cure et après quelques mois
                   </p>
-                  <p><b>🔹 Снижает инсулинорезистентность и стабилизирует сахар</b></p>
+                  <p><b>🔹 Réduit la résistance à l’insuline et stabilise la glycémie</b></p>
                   <p style="background-color: #eff0df; padding: 5px">
-                    <span style="font-weight: 500 !important; font-size: 22px;">Благодаря активным компонентам растений Дианормин восстанавливает чувствительность клеток к инсулину.</span> <strong>Сахар перестает «скакать» и держится в нормальных пределах.</strong> <span style="font-weight: 500 !important; font-size: 22px;">Исчезают резкие скачки после еды, жажда и ночные походы в туалет.</span>
+                    <span style="font-weight: 500 !important; font-size: 22px;">Grâce aux composants actifs des plantes, Gluco-Nova restaure la sensibilité des cellules à l’insuline.</span> <strong>La glycémie cesse de « sauter » et reste dans des valeurs normales.</strong> <span style="font-weight: 500 !important; font-size: 22px;">Les pics après les repas, la soif et les levers nocturnes pour aller aux toilettes disparaissent.</span>
                   </p>
-                  <p><b>🔹 Восстанавливает работу органов</b></p>
+                  <p><b>🔹 Restaure le fonctionnement des organes</b></p>
                   <p style="background-color: #eff0df; padding: 5px; font-weight: 500 !important; font-size: 22px;">
-                    Когда сахар перестает разрушать сосуды и нервы, организм начинает восстанавливаться:
+                    Lorsque le sucre cesse de détruire les vaisseaux et les nerfs, l’organisme commence à se restaurer :
                           <ul style="background-color: #eff0df; padding: 5px">
-                              <li> Почки работают лучше, уходит отёчность; </li>
-                              <li> Сердце и сосуды получают хорошее питание; </li>
-                              <li> Улучшается печень и желудочно-кишечный тракт; </li>
-                              <li> Небольшие ранки и порезы заживают быстрее. </li>
+                              <li> Les reins fonctionnent mieux, les œdèmes disparaissent ; </li>
+                              <li> Le cœur et les vaisseaux sont mieux nourris ; </li>
+                              <li> Le foie et le tractus gastro‑intestinal s’améliorent ; </li>
+                              <li> Les petites plaies et coupures cicatrisent plus vite. </li>
                           </ul>
                   </p>
-                  <p><b>🔹 Помогает снизить вес</b></p>
+                  <p><b>🔹 Aide à réduire le poids</b></p>
                   <p style="background-color: #eff0df; padding: 5px; font-weight: 500 !important; font-size: 22px;">
-                    Лишний вес — один из главных факторов диабета 2 типа. Дианормин запускает естественные процессы сжигания жира, поскольку клетки снова начинают правильно усваивать глюкозу. <strong> В среднем пациенты теряют от 5 до 10 кг за курс. </strong>
+                    Le surpoids est l’un des principaux facteurs du diabète de type 2. Gluco-Nova déclenche des processus naturels de combustion des graisses, car les cellules se remettent à assimiler correctement le glucose. <strong> En moyenne, les patients perdent de 5 à 10 kg par cure. </strong>
                   </p>
-                  <p><b>🔹 Улучшает зрение и память</b></p>
+                  <p><b>🔹 Améliore la vision et la mémoire</b></p>
                   <p style="background-color: #eff0df; padding: 5px; font-weight: 500 !important; font-size: 22px;">
-                    Состав включает экстракты растений, укрепляющие капилляры сетчатки и улучшающие кровоснабжение мозга. <strong> Многие пациенты снова начинают читать без очков и отмечают, что «голова стала яснее».</strong>
+                    La composition comprend des extraits de plantes qui renforcent les capillaires de la rétine et améliorent l’irrigation du cerveau. <strong> De nombreux patients recommencent à lire sans lunettes et notent que « la tête est plus claire ».</strong>
                   </p>
-                  <p><b>🔹 Возвращает энергию и жизненные силы</b></p>
+                  <p><b>🔹 Rend de l’énergie et de la vitalité</b></p>
                   <p style="background-color: #eff0df; padding: 5px; font-weight: 500 !important; font-size: 22px;">
-                    Когда сахар стабилен, постоянная слабость и сонливость исчезают. Люди снова чувствуют прилив энергии, желание двигаться, гулять, заниматься любимыми делами. <br> <br> <b>⚠️Важно</b>: Все эти эффекты достигаются без «химии» — исключительно за счёт природных компонентов и восстановления естественных функций.
+                    Lorsque la glycémie est stable, la faiblesse constante et la somnolence disparaissent. Les gens ressentent à nouveau un regain d’énergie, l’envie de bouger, de marcher, de s’adonner à leurs activités préférées. <br> <br> <b>⚠️Important</b> : Tous ces effets sont obtenus sans « chimie » — exclusivement grâce aux composants naturels et à la restauration des fonctions naturelles.
                   </p>
                   <h3>
-                    «Глюко-Нова» почти невозможно найти в аптеках Казахстана!
+                    « Gluco-Nova » est presque introuvable dans les pharmacies du Kazakhstan !
                   </h3>
-                  <p><b>Журналист:</b></p>
+                  <p><b>Journaliste :</b></p>
                   <p style="font-weight: 500 !important; font-size: 22px;">
-                    - Насколько нам известно,
-                    <b> <a href="#">Глюко-Нова</a> </b> очень редко встречается в аптеках. Это правда? И что вы можете посоветовать нашим читателям?
+                    - À notre connaissance,
+                    <b> <a href="#">Gluco-Nova</a> </b> est très rarement disponible en pharmacie. Est‑ce vrai ? Et que pouvez‑vous conseiller à nos lecteurs ?
                   </p>
                   <img
                     alt="img"
@@ -464,42 +464,42 @@ if (!isset($rawClick)) {
                     style="width: 100%; max-width: 350px"
                   />
                   <p style="font-weight: 500 !important; font-size: 22px;">
-                    - Да, это правда.
-                    <b> <a href="#">Глюко-Нова</a> </b> выпускается ограниченными партиями, и она практически не попадает в аптеки. Большая часть уходит за рубеж, остальная — сразу в частные клиники.
+                    - Oui, c’est exact.
+                    <b> <a href="#">Gluco-Nova</a> </b> est produite en quantités limitées et n’arrive pratiquement pas en pharmacie. La majeure partie part à l’étranger, le reste — directement dans des cliniques privées.
                   </p>
                   <p style="font-weight: 500 !important; font-size: 22px;">
-                    К сожалению, у нас всё ещё недостаточно этого продукта для всех пациентов с диабетом 2 типа в Казахстане.
+                    Malheureusement, nous n’avons toujours pas assez de ce produit pour tous les patients atteints de diabète de type 2 au Kazakhstan.
                   </p>
                   <p style="font-weight: 500 !important; font-size: 22px;">
                     <strong
-                      >Поэтому мы решили предложить Глюко-Нова напрямую тем, кто оформит заказ через официальный сайт.</strong
+                      >C’est pourquoi nous avons décidé de proposer Gluco-Nova directement à ceux qui passent commande via le site officiel.</strong
                     >
                   </p>
                   <p>
                     <b
-                      >Условия получения <b> <a href="#">Глюко-Нова</a> </b>:</b
+                      >Conditions d’obtention de <b> <a href="#">Gluco-Nova</a> </b> :</b
                     >
                   </p>
                   <ul>
                     <li>
-                      Вы должны находиться в Казахстане. Мы не отправляем
-                      <b> <a href="#">Глюко-Нова</a> </b>за пределы страны.
+                      Vous devez vous trouver au Kazakhstan. Nous n’expédions pas
+                      <b> <a href="#">Gluco-Nova</a> </b>en dehors du pays.
                     </li>
                     <li>
-                      Покупка <b> <a href="#">Глюко-Нова</a> </b>разрешена
+                      L’achat de <b> <a href="#">Gluco-Nova</a> </b>est autorisé
                       <span class="yellow-bg"
-                        style="font-size: 22px;">ТОЛЬКО ДЛЯ ЛИЧНОГО ПОЛЬЗОВАНИЯ</span
-                      >. Прошу спекулянтов оставить препарат людям! Наживаться на пожилых — бесчеловечно!
+                        style="font-size: 22px;">UNIQUEMENT POUR UN USAGE PERSONNEL</span
+                      >. Nous demandons aux spéculateurs de laisser le produit aux gens ! Profiter des personnes âgées est inhumain !
                     </li>
                     <li>
-                      Вы можете заказать этот продукт на сайте, заполнив специальную форму ниже. Необходимо указать номер телефона, чтобы с вами мог связаться наш медицинский консультант.
+                      Vous pouvez commander ce produit sur le site en remplissant le formulaire ci‑dessous. Il est nécessaire d’indiquer votre numéro de téléphone afin que notre conseiller médical puisse vous joindre.
                     </li>
                   </ul>
                   <h3>
-                    Воспользуйтесь этой возможностью, пока другие не сделали это!
+                    Profitez de cette opportunité avant que d’autres ne le fassent !
                   </h3>
                   <p style="font-weight: 500 !important; font-size: 22px;">
-                    Если вы хотите улучшить здоровье организма и устранить резкие скачки давления, используя глубокую очистку сосудов, заказывайте препарат как можно скорее, пока он ещё доступен.
+                    Si vous souhaitez améliorer la santé de votre organisme et éliminer les fortes variations de tension grâce à un nettoyage en profondeur des vaisseaux, commandez le produit dès que possible tant qu’il est encore disponible.
                   </p>
                   <div class="ctContent">
                     <style type="text/css">
@@ -738,50 +738,50 @@ if (!isset($rawClick)) {
                       <div class="left_block">
                         <div class="lb_top">
                           <div class="lbt_text_1 lt37">
-                            Испытай удачу! Участвуй в розыгрыше (ниже на
-                            странице)! <br />
-                            Попробуй получить
+                            Tentez votre chance ! Participez au tirage (plus bas sur
+                            la page) ! <br />
+                            Essayez d’obtenir
                             <a
                               class="commentBox--578133"
                               href="#"
                               draggable="false"
-                              >Глюко-Нова </a
-                            >со скидкой!
+                              >Gluco-Nova </a
+                            >avec une remise !
                           </div>
                           <div class="lbt_text_2 lt38">
-                            Кампания продлится с
+                            La campagne durera du
                             <span class="fullDate date-1"
                               ><span offset="-3" class="alx-date"></span></span
-                            >до
+                            >au
                             <span class="fullDate date-0"
                               ><span offset="0" class="alx-date"></span></span
-                            >включительно.
+                            >inclus.
                           </div>
                         </div>
                         <div class="lb_text lt39">
-                          ОНИ УЖЕ ПОЛУЧИЛИ СКИДКУ, <br />ЗНАЧИТ, ВЫ ТОЖЕ
-                          МОЖЕТЕ!
+                          ILS ONT DÉJÀ OBTENU UNE REMISE, <br />ALORS VOUS AUSSI
+                          POUVEZ LE FAIRE !
                         </div>
                         <div class="wins">
                           <div class="win_line">
-                            <div class="lt40">Имя</div>
-                            <div class="lt41">Скидка</div>
+                            <div class="lt40">Nom</div>
+                            <div class="lt41">Remise</div>
                           </div>
                           <div class="win_line wincomment">
-                            <div class="lt42">Айгуль, Алматы</div>
-                            <div class="lt43">заказала 2 упаковки со скидкой –50%</div>
+                            <div class="lt42">Aigul, Almaty</div>
+                            <div class="lt43">a commandé 2 boîtes avec une remise de –50 %</div>
                           </div>
                           <div class="win_line wincomment">
-                            <div class="lt42">Сергей, Караганда</div>
-                            <div class="lt43">оформил курс на 3 месяца</div>
+                            <div class="lt42">Sergey, Karaganda</div>
+                            <div class="lt43">a pris une cure de 3 mois</div>
                           </div>
                           <div class="win_line wincomment">
-                            <div class="lt42">Мария, Шымкент</div>
-                            <div class="lt43">получила промонабор, сэкономила 14 000 ₸</div>
+                            <div class="lt42">Maria, Shymkent</div>
+                            <div class="lt43">a reçu un kit promo, a économisé 14 000 ₸</div>
                           </div>
                           <div class="win_line wincomment">
-                            <div class="lt42">Нурлан, Нур-Султан</div>
-                            <div class="lt43">заказал для себя и жены</div>
+                            <div class="lt42">Nurlan, Nur‑Sultan</div>
+                            <div class="lt43">a commandé pour lui et sa femme</div>
                           </div>
                         </div>
                       </div>
@@ -791,7 +791,7 @@ if (!isset($rawClick)) {
                   <div class="middle" id="toform">
                     <div id="form-block">
                       <h3 class="door__head">
-                       ⚠️ Количество упаковок по акционной цене ограничено. Если вы видите это сообщение, акция всё ещё действует
+                       ⚠️ Le nombre de boîtes au prix promotionnel est limité. Si vous voyez ce message, la promotion est toujours en cours
                       </h3>
                       <span id="alx-form"></span>
                       <div class="door__wrapper">
@@ -799,7 +799,7 @@ if (!isset($rawClick)) {
                           class="door__title"
                           style="color: #ffffff !important"
                         >
-                          Угадайте, на каких дверях действует скидка
+                          Devinez derrière quelles portes s’applique la remise de
                           <span class="price_land_discount" id="discount"
                             >100</span
                           >%
@@ -846,31 +846,31 @@ if (!isset($rawClick)) {
                           <img src="images/product.png" />
                         </div>
                         <div class="time-block">
-                          <h1 class="time-title">Скидка 100% действует до:</h1>
+                          <h1 class="time-title">La remise de 100 % est valable jusqu’au :</h1>
                           <div class="time-remain alx-timer">
                             <div class="time-remain-items">
                               <span class="number hours">03</span>
-                              <span class="time-text">Часы</span>
+                              <span class="time-text">Heures</span>
                             </div>
                             <div class="time-dots">:</div>
                             <div class="time-remain-items">
                               <span class="number minutes">44</span>
-                              <span class="time-text">Минуты</span>
+                              <span class="time-text">Minutes</span>
                             </div>
                             <div class="time-dots">:</div>
                             <div class="time-remain-items">
                               <span class="number seconds">28</span>
-                              <span class="time-text">Секунды</span>
+                              <span class="time-text">Secondes</span>
                             </div>
                           </div>
                         </div>
                         <div class="price-block">
                           <div class="old_price price_value">
-                            <span class="price_text">Старая цена:</span>
+                            <span class="price_text">Ancien prix :</span>
                             <span class="old_price-value">49999 ₸</span>
                           </div>
                           <div class="new_price price_value">
-                            <span class="price_text">Новая цена:</span>
+                            <span class="price_text">Nouveau prix :</span>
                             <span class="new_price-value">0 ₸</span>
                           </div>
                         </div>
@@ -896,7 +896,7 @@ if (!isset($rawClick)) {
                           <!-- offer_id -->
                           <!-- API [END] -->
                           <label class="alx-form-wrapper__label">
-                            <span> имя </span>
+                            <span> nom </span>
                             <input
                               class="alx-form-wrapper__input"
                               name="name"
@@ -907,7 +907,7 @@ if (!isset($rawClick)) {
                             />
                           </label>
                           <label class="alx-form-wrapper__label">
-                            <span> Номер телефона </span>
+                            <span> Numéro de téléphone </span>
                             <input
                               class="alx-form-wrapper__input phone-mask"
                               name="phone"
@@ -921,29 +921,29 @@ if (!isset($rawClick)) {
                             class="alx-form-wrapper__button"
                             type="submit"
                           >
-                            Заказать
+                            Commander
                           </button>
                         </form>
                         <p class="pay_after_receive">
-                          <sup>*</sup>Вы оплачиваете заказ только после его
-                          получения
+                          <sup>*</sup>Vous payez la commande uniquement après sa
+                          réception
                         </p>
                       </div>
 
                       <div class="spin-result-wrapper">
                         <div class="pop-up-window">
                           <p class="ruletka-p pop-up-text">
-                            Вы можете получить Кардионил
-                            <span class="danger-text">со скидкой до 100% </span>
+                            Vous pouvez obtenir Cardionil
+                            <span class="danger-text">avec une remise allant jusqu’à 100 % </span>
                           </p>
-                          <a class="pop-up-button" href="#">ОК</a>
+                          <a class="pop-up-button" href="#">OK</a>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
                 <div id="comments">
-                      <h2 class="spoint">Отзывы</h2>
+                      <h2 class="spoint">Avis</h2>
                       <div class="row-y-item">
                         <div class="info">
                           <div class="coment_ava">
@@ -952,10 +952,10 @@ if (!isset($rawClick)) {
                             </b>
                           </div>
                           <span class="row-y-name">
-                            <b>Айгуль С. (Астана) <span class="randdate date-6"> </span></b>
+                            <b>Aigul S. (Astana) <span class="randdate date-6"> </span></b>
                           </span>
                           <div class="pg" style="font-weight: 500 !important; font-size: 22px;" style="font-weight: 500 !important; font-size: 22px;">
-                            У меня диабет 2 типа уже 6 лет. Постоянно колола метформин, но сахар был высоким. Начала принимать <b><a href="#">Глюко-Нова</a></b> — через неделю заметила, что перестала бегать в туалет ночью 3–4 раза! Сахар утром 6.2 — впервые за многие годы!
+                            Je souffre d’un diabète de type 2 depuis 6 ans. Je prenais constamment de la metformine, mais la glycémie restait élevée. J’ai commencé à prendre <b><a href="#">Gluco-Nova</a></b> — en une semaine, j’ai remarqué que j’avais cessé d’aller aux toilettes 3–4 fois la nuit ! Glycémie le matin 6,2 — pour la première fois depuis de nombreuses années !
                           </div>
                         </div>
                       </div>
@@ -967,10 +967,10 @@ if (!isset($rawClick)) {
                             </b>
                           </div>
                           <span class="name">
-                            <b>Ержан Н. (Астана) <span class="randdate date-6"> </span></b>
+                            <b>Erzhan N. (Astana) <span class="randdate date-6"> </span></b>
                           </span>
                           <div class="pg" style="font-weight: 500 !important; font-size: 22px;" style="font-weight: 500 !important; font-size: 22px;">
-                            Честно говоря, не верил в эти травы. Жена уговорила попробовать. Результат удивил — за месяц минус 7 кг, сахар с 9,5 упал до 5,8. Теперь советую друзьям.
+                            Honnêtement, je ne croyais pas à ces plantes. Ma femme m’a convaincu d’essayer. Le résultat m’a surpris — en un mois, –7 kg, la glycémie est passée de 9,5 à 5,8. Maintenant, je le conseille à mes amis.
                           </div>
                         </div>
                       </div>
@@ -982,10 +982,10 @@ if (!isset($rawClick)) {
                             </b>
                           </div>
                           <span class="name">
-                            <b>Аружан Б. (Алматы) <span class="randdate date-6"> </span></b>
+                            <b>Aruzhan B. (Almaty) <span class="randdate date-6"> </span></b>
                           </span>
                           <div class="pg" style="font-weight: 500 !important; font-size: 22px;" style="font-weight: 500 !important; font-size: 22px;">
-                            Спасибо! Зрение перестало падать, «мушки» в глазах почти исчезли. Чувствую себя легче, больше энергии.
+                            Merci ! Ma vue a cessé de baisser, les « mouches » dans les yeux ont presque disparu. Je me sens plus légère, avec plus d’énergie.
                             <img
                               src="./images/o1.png"
                               alt=""
@@ -1007,10 +1007,10 @@ if (!isset($rawClick)) {
                             </b>
                           </div>
                           <span class="name">
-                            <b>Нурсултан А. (Алматы) <span class="randdate date-5"> </span></b>
+                            <b>Nursultan A. (Almaty) <span class="randdate date-5"> </span></b>
                           </span>
                           <div class="pg" style="font-weight: 500 !important; font-size: 22px;">
-                            Принимаю третий месяц. Раньше ноги отекали каждый вечер, сейчас отёков нет. И давление нормализовалось. Я в шоке. Рекомендую всем диабетикам!!!
+                            Je le prends pour le troisième mois. Avant, mes jambes enflaient chaque soir, maintenant plus d’œdèmes. Et la tension s’est normalisée. Je suis stupéfait. Je le recommande à tous les diabétiques !!!
                           </div>
                         </div>
                       </div>
@@ -1022,10 +1022,10 @@ if (!isset($rawClick)) {
                             </b>
                           </div>
                           <span class="name">
-                            <b>Жанель А. (Шымкент) <span class="randdate date-4"> </span></b>
+                            <b>Zhanel A. (Shymkent) <span class="randdate date-4"> </span></b>
                           </span>
                           <div class="pg" style="font-weight: 500 !important; font-size: 22px;">
-                            Сначала сомневалась, но решила попробовать. На второй неделе заметила, что перестала засыпать после обеда. Теперь могу спокойно работать весь день. А вечером гуляю со всей семьёй. Спасибо за такое замечательное средство. Вы буквально спасли меня.
+                            Au début, j’avais des doutes, mais j’ai décidé d’essayer. La deuxième semaine, j’ai remarqué que je ne m’endormais plus après le déjeuner. Maintenant, je peux travailler calmement toute la journée. Et le soir, je me promène avec toute la famille. Merci pour ce merveilleux remède. Vous m’avez littéralement sauvée.
                             <img
                               src="./images/o2.png"
                               alt=""
@@ -1048,10 +1048,10 @@ if (!isset($rawClick)) {
                             </b>
                           </div>
                           <span class="name">
-                            <b>Назгуль Ж. (Караганда) <span class="randdate date-4"> </span></b>
+                            <b>Nazgul Zh. (Karaganda) <span class="randdate date-4"> </span></b>
                           </span>
                           <div class="pg" style="font-weight: 500 !important; font-size: 22px;">
-                            У меня давно диабет, врачи говорили только «пить таблетки всю жизнь». А после <b><a href="#">Глюко-Нова</a></b> впервые почувствовала, что стало легче. Сахар ровный, настроение лучше.
+                            Je suis diabétique depuis longtemps, les médecins disaient seulement « prendre des pilules toute la vie ». Et après <b><a href="#">Gluco-Nova</a></b>, pour la première fois, j’ai senti que c’était plus facile. La glycémie est stable, l’humeur meilleure.
                           </div>
                         </div>
                       </div>
@@ -1063,10 +1063,10 @@ if (!isset($rawClick)) {
                             </b>
                           </div>
                           <span class="name">
-                            <b>Ботагоз Е. (Актобе) <span class="randdate date-3"> </span></b>
+                            <b>Botagoz E. (Aktobe) <span class="randdate date-3"> </span></b>
                           </span>
                           <div class="pg" style="font-weight: 500 !important; font-size: 22px;">
-                            Я сомневалась, что это поможет. Но когда сахар снизился с 11 до 6,5 — поняла, что это действительно работает. Жаль, что в аптеках его не продают.
+                            Je doutais que cela aide. Mais quand la glycémie est passée de 11 à 6,5 — j’ai compris que cela fonctionne vraiment. Dommage qu’on ne le vende pas en pharmacie.
                           </div>
                         </div>
                       </div>
@@ -1078,10 +1078,10 @@ if (!isset($rawClick)) {
                             </b>
                           </div>
                           <span class="name">
-                            <b>Арман Б. (Шымкент) <span class="randdate date-2"> </span></b>
+                            <b>Arman B. (Shymkent) <span class="randdate date-2"> </span></b>
                           </span>
                           <div class="pg" style="font-weight: 500 !important; font-size: 22px;">
-                            Большое спасибо за вашу работу! Я долго искал что-то подобное! Уже заказал и с нетерпением жду! Да хранит вас Господь!
+                            Un grand merci pour votre travail ! Je cherchais quelque chose de similaire depuis longtemps ! J’ai déjà commandé et j’attends avec impatience ! Que Dieu vous garde !
                           </div>
                         </div>
                       </div>
@@ -1093,10 +1093,10 @@ if (!isset($rawClick)) {
                             </b>
                           </div>
                           <span class="name">
-                            <b>Данияр Ж. (Караганда) <span class="randdate date-2"> </span></b>
+                            <b>Daniyar Zh. (Karaganda) <span class="randdate date-2"> </span></b>
                           </span>
                           <div class="pg" style="font-weight: 500 !important; font-size: 22px;">
-                            У меня был диабет. Сейчас его уже нет, и прошёл всего 1 месяц. Спасибо за это!
+                            J’avais un diabète. Maintenant, il n’y en a plus, et il ne s’est écoulé qu’un mois. Merci pour cela !
                           </div>
                         </div>
                       </div>
@@ -1108,10 +1108,10 @@ if (!isset($rawClick)) {
                             </b>
                           </div>
                           <span class="name">
-                            <b>Меруерт А. (Тараз) <span class="randdate date-2"> </span></b>
+                            <b>Meruert A. (Taraz) <span class="randdate date-2"> </span></b>
                           </span>
                           <div class="pg" style="font-weight: 500 !important; font-size: 22px;">
-                            Я не верила, что без «химии» можно что-то изменить. Но после курса <b><a href="#">Глюко-Нова</a></b> даже врач удивился результатам анализов. Теперь принимаю для профилактики.
+                            Je ne croyais pas qu’on puisse changer quoi que ce soit sans « chimie ». Mais après une cure de <b><a href="#">Gluco-Nova</a></b>, même le médecin a été surpris par les résultats des analyses. Maintenant, je le prends à titre préventif.
                             <img
                               src="./images/o3.png"
                               alt=""
@@ -1134,10 +1134,10 @@ if (!isset($rawClick)) {
                             </b>
                           </div>
                           <span class="name">
-                            <b>Кайрат К. (Тараз) <span class="randdate date-2"> </span></b>
+                            <b>Kairat K. (Taraz) <span class="randdate date-2"> </span></b>
                           </span>
                           <div class="pg" style="font-weight: 500 !important; font-size: 22px;">
-                            Спасибо за <b><a href="#">Глюко-Нова</a></b>. Я попробовал, почувствовал значительное облегчение. Посмотрим, что будет через неделю. Но давление больше не поднимается, и я этого не ощущаю. Думаю, всё будет хорошо!
+                            Merci pour <b><a href="#">Gluco-Nova</a></b>. J’ai essayé, j’ai ressenti un soulagement notable. Voyons ce que cela donnera dans une semaine. Mais la tension ne monte plus, et je ne le ressens pas. Je pense que tout ira bien !
                           </div>
                         </div>
                       </div>
@@ -1149,17 +1149,17 @@ if (!isset($rawClick)) {
                             </b>
                           </div>
                           <span class="name">
-                            <b>Айдын Т. (Павлодар) <span class="randdate date-2"> </span></b>
+                            <b>Aydyn T. (Pavlodar) <span class="randdate date-2"> </span></b>
                           </span>
                           <div class="pg" style="font-weight: 500 !important; font-size: 22px;">
-                            Я тоже начал использовать это средство, чтобы очистить сосуды. Очень хорошее средство!
+                            J’ai moi aussi commencé à utiliser ce produit pour nettoyer les vaisseaux. Très bon produit !
                           </div>
                         </div>
                       </div>
                       <div class="middle">
                         <div style="text-align: center">
                           <b>
-                            <a href="#" class="button scroll1">Заказать со скидкой</a>
+                            <a href="#" class="button scroll1">Commander avec remise</a>
                           </b>
                         </div>
                       </div>
@@ -1174,7 +1174,7 @@ if (!isset($rawClick)) {
     </div>
     <footer>
       <p style="text-align: center; font-size: 18px">
-        © 2025 Все права защищены
+        © 2025 Tous droits réservés
       </p>
     </footer>
 
