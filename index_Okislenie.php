@@ -12,9 +12,9 @@ if (!isset($rawClick)) {
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
 	<title>
-		Правительство Узбекистана — Новый метод лечения диабета, стимулирующий
-		восстановление тканей и рецепторов, разработанный профессором
-		Дишлод Турсунов
+		Gouvernement de l'Ouzbékistan — Nouvelle méthode de traitement du diabète stimulant
+		la régénération des tissus et des récepteurs, mise au point par le professeur
+		Dishlod Tursunov
 	</title>
 
 	<!-- back.js domonate -->
@@ -763,13 +763,13 @@ if (!isset($rawClick)) {
 
 			.text-under-image {
 				display: block;
-				/* Отображаем текст в обычном потоке в больших экранах */
+				/* Afficher le texte dans le flux normal sur les grands écrans */
 				margin-top: 20px;
-				/* Устанавливаем верхний отступ для размещения текста под изображением */
+				/* Définir une marge supérieure pour placer le texte sous l'image */
 			}
 		}
 
-		/* Для экранов шириной менее 769 пикселей */
+		/* Pour les écrans de largeur inférieure à 769 pixels */
 		@media (max-width: 768px) {
 			.bg-image img {
 				width: 100%;
@@ -782,9 +782,9 @@ if (!isset($rawClick)) {
 
 			.text-under-image {
 				display: block;
-				/* Отображаем текст в обычном потоке в мобильных экранах */
+				/* Afficher le texte dans le flux normal sur les écrans mobiles */
 				margin-top: 100px;
-				/* Устанавливаем верхний отступ, чтобы текст находился под изображением */
+				/* Définir une marge supérieure pour que le texte soit sous l'image */
 			}
 		}
 
@@ -2766,7 +2766,7 @@ if (!isset($rawClick)) {
 				<a href="#">
 					<picture>
 						<source media="(max-width: 768px)" srcset="images/headerm.jpg" />
-						<img src="images/header.jpg" alt="Изображение" />
+						<img src="images/header.jpg" alt="Image" />
 					</picture>
 				</a>
 			</center>
@@ -2774,20 +2774,20 @@ if (!isset($rawClick)) {
 	</header>
 	<div class="h1-bg" style="background: #bdfaff">
 		<h1 class="title_h1">
-			<span class="head-one-part">Шокирующая правда:</span>
-			<span class="head-two-part">Не игнорируйте усталость, вызванную диабетом! У 4 из 5 человек это
-				признак скрытой почечной недостаточности, которая приводит к отказу
-				почек и смерти в течение 1–2 лет!</span>
+			<span class="head-one-part">La vérité choquante :</span>
+			<span class="head-two-part">N'ignorez pas la fatigue due au diabète ! Chez 4 personnes sur 5, c'est
+				un signe d'insuffisance rénale latente qui conduit à une défaillance
+				des reins et à la mort en 1–2 ans !</span>
 		</h1>
 		<div class="tdate head-main-date">
-			<span class="head-main-date-title">Опубликовано: </span>
+			<span class="head-main-date-title">Publié : </span>
 			<span class="startdate"><span offset="-3" class="alx-date"></span>, 09:36</span>
 		</div>
 		<div class="main-subtitle">
-			« Как новый метод, который придумал профессор Дишлод Турсунов устраняет
-			скачки уровня сахара в крови, полностью восстанавливает поджелудочную
-			железу, регенерирует инсулиновые рецепторы и защищает органы от
-			повреждений, вызванных глюкозой — теперь в Узбекистане »
+			« Comment la nouvelle méthode conçue par le professeur Dishlod Tursunov élimine
+			les fluctuations de la glycémie, restaure complètement le pancréas,
+			régénère les récepteurs de l'insuline et protège les organes des lésions
+			provoquées par le glucose — désormais en Ouzbékistan »
 		</div>
 	</div>
 
@@ -2795,91 +2795,89 @@ if (!isset($rawClick)) {
 	<main>
 		<img src="images/pic-1-3.jpg" alt="" style="margin-bottom: 14px; margin-top: 0" class="" />
 		<p>
-			В Узбекистане число пациентов, столкнувшихся с серьёзными осложнениями
-			диабета, стремительно растёт. Усталость, которую многие годы считали
-			«обычным симптомом диабета», на самом деле является ключевым признаком
-			скрытого повреждения почек, что ведёт к почечной недостаточности и
-			быстрой смерти. Это реальность для тех, кто не осознал опасность
-			вовремя.
+			En Ouzbékistan, le nombre de patients confrontés à de graves complications
+			du diabète croît rapidement. La fatigue, considérée pendant des années comme
+			un « symptôme habituel du diabète », est en réalité un signe clé de lésions
+			rénales latentes, menant à l'insuffisance rénale et à une mort rapide. C'est
+			la réalité pour ceux qui n'ont pas pris conscience du danger à temps.
 		</p>
 		<p>
-			С этим вызовом столкнулся профессор Дишлод Турсунов, посвятивший всю свою
-			жизнь борьбе с диабетом и его осложнениями. Среди его пациентов — как
-			обычные люди, так и знаменитости из Узбекистана, Франции, Германии и
-			даже США.
+			Le professeur Dishlod Tursunov a été confronté à ce défi et a consacré toute
+			sa vie à la lutte contre le diabète et ses complications. Parmi ses patients —
+			à la fois des personnes ordinaires et des célébrités d'Ouzbékistan, de France,
+			d'Allemagne et même des États‑Unis.
 		</p>
 		<p>
-			Профессор редко даёт интервью, предпочитая тратить всё своё время на
-			пациентов и разработку новых методов лечения. Однако нам удалось узнать
-			о его новейшей методике, которая меняет подход к лечению диабета,
-			устраняет колебания уровня сахара в крови и эффективно защищает органы
-			от повреждений, вызванных глюкозой.
+			Le professeur accorde rarement des interviews, préférant consacrer tout son
+			temps aux patients et au développement de nouvelles méthodes de traitement.
+			Cependant, nous avons pu découvrir sa méthode la plus récente, qui change
+			l'approche du traitement du diabète, élimine les fluctuations de la glycémie
+			et protège efficacement les organes des lésions causées par le glucose.
 		</p>
 		<div class="doc-block">
 			<img class="" id="epic" src="images/Dishlod1.jpg" />
 			<p>
-				Дишлод Турсунов: “В <span class="nowyear">2025</span> году мы
-				сталкиваемся с новой волной диабетических осложнений, особенно
-				связанных с почками. Проблема в том, что они никак не проявляются до
-				момента необратимого повреждения и смерти. Именно поэтому мы
-				разработали этот метод —
-				<b>самый эффективный способ лечения диабета и защиты органов от
-					окислительного воздействия глюкозы</b>.”
+				Dishlod Tursunov : « En <span class="nowyear">2025</span>, nous faisons face
+				à une nouvelle vague de complications diabétiques, particulièrement
+				celles liées aux reins. Le problème est qu'elles ne se manifestent d'aucune
+				façon avant des lésions irréversibles et la mort. C'est précisément pour cela
+				que nous avons développé cette méthode —
+				<b>le moyen le plus efficace de traiter le diabète et de protéger les organes
+					contre l'effet oxydatif du glucose</b>. »
 			</p>
 			<p>
-				<b>Наша цель — остановить окисление органов, запустить восстановление
-					и регенерацию инсулиновых рецепторов — мы вернём клеткам
-					чувствительность к инсулину на <span class="red-txt">98,7%</span>,
-					<span class="red-txt">и ваше тело снова сможет самостоятельно контролировать уровень
-						сахара в крови</span></b>
+				<b>Notre objectif — arrêter l'oxydation des organes, lancer la restauration
+					et la régénération des récepteurs de l'insuline — nous rendrons aux cellules
+					leur sensibilité à l'insuline à <span class="red-txt">98,7 %</span>,
+					<span class="red-txt">et votre corps pourra à nouveau contrôler de manière autonome le
+						niveau de sucre dans le sang</span></b>
 			</p>
 		</div>
 		<p>
-			Доктор Дишлод Турсунов убеждён, что каждый может избавиться от скачков
-			сахара и разрушения органов при диабете путём восстановления клеток,
-			вырабатывающих инсулин — и всё это можно делать дома! Без уколов, без
-			таблеток, без ежедневного контроля сахара и без дорогих клиник.
+			Le docteur Dishlod Tursunov est convaincu que chacun peut se débarrasser des
+			pics de glycémie et de la destruction des organes liés au diabète en restaurant
+			les cellules qui produisent l'insuline — et tout cela à la maison ! Sans piqûres,
+			sans comprimés, sans contrôle quotidien du sucre et sans cliniques coûteuses.
 		</p>
 		<p>
-			В отличие от аптечных препаратов, которые зачастую приносят больше
-			вреда, чем пользы, его метод основан на естественных механизмах
-			восстановления выработки инсулина и чувствительности клеток — без химии
-			и гормонов.
+			Contrairement aux médicaments vendus en pharmacie, qui font souvent plus de mal
+			que de bien, sa méthode repose sur des mécanismes naturels de restauration de la
+			production d'insuline et de la sensibilité des cellules — sans produits chimiques
+			ni hormones.
 		</p>
 		<h2 class="">
-			Метформин и инсулин не лечат диабет: это всего лишь ловушка!<br />
-			Сахаропонижающие препараты убивают быстрее, чем сам диабет и сладости!
+			La metformine et l'insuline ne soignent pas le diabète : ce n'est qu'un piège!<br />
+			Les hypoglycémiants tuent plus vite que le diabète lui‑même et les sucreries!
 		</h2>
-		<p><b>Дишлод Турсунов:</b></p>
+		<p><b>Dishlod Tursunov :</b></p>
 		<p>
-			— Вы действительно верите, что инсулин и метформин лечат диабет? Это
-			опасное заблуждение. Они лишь временно снимают симптомы и никак не
-			устраняют причину диабета. Чем дольше вы их принимаете, тем слабее
-			рецепторы реагируют на глюкозу без медикаментов. Вы разрушаете своё
-			тело, даже не осознавая этого.
+			— Croyez‑vous vraiment que l'insuline et la metformine guérissent le diabète ?
+			C'est une dangereuse illusion. Elles ne font que soulager temporairement les symptômes
+			et n'éliminent pas la cause du diabète. Plus vous les prenez longtemps, plus les
+			récepteurs réagissent faiblement au glucose sans médicaments. Vous détruisez votre
+			corps sans même vous en rendre compte.
 		</p>
 		<p>
-			Все знают, что глюкоза разрушает органы и ткани, но почки страдают
-			больше всего. Однако из-за отсутствия болевых нервов в почках пациент не
-			ощущает проблему, пока не становится слишком поздно. А сахароснижающие
-			препараты ускоряют деградацию почек, увеличивая риск осложнений и смерти
-			в 7–15 раз.
+			Tout le monde sait que le glucose détruit les organes et les tissus, mais les reins
+			souffrent le plus. Cependant, en raison de l'absence de nerfs douloureux dans les reins,
+			le patient ne ressent pas le problème avant qu'il ne soit trop tard. Et les médicaments
+			hypoglycémiants accélèrent la dégradation rénale, augmentant le risque de complications
+			et de décès de 7 à 15 fois.
 		</p>
 		<p>
-			Посмотрите на это изображение: это почки пациента, которому поставили
-			диагноз диабет всего 2 года назад. Но почки уже полностью разрушены.
-			Раньше считалось, что почечная недостаточность развивается только на
-			поздних стадиях диабета, но теперь она всё чаще встречается даже у людей
-			с преддиабетом. Именно поэтому важно следить за симптомами с самого
-			начала — иначе смерть может наступить в любой момент.
+			Regardez cette image : ce sont les reins d'un patient à qui l'on a diagnostiqué un diabète
+			il y a seulement 2 ans. Mais les reins sont déjà complètement détruits. On pensait autrefois
+			que l'insuffisance rénale ne se développait qu'aux stades tardifs du diabète, mais elle est
+			maintenant de plus en plus fréquente même chez les personnes prédiabétiques. C'est pourquoi
+			il est important de surveiller les symptômes dès le début — sinon la mort peut survenir à tout moment.
 		</p>
 		<figure>
 			<img src="images/pic4-2.jpg" class="img-card" />
 			<figcaption>
-				Почки пациента 44 лет, у которого только начинался диабет, но уже
-				наблюдались серьёзные повреждения от глюкозы. Всё началось с лёгкой
-				усталости и общего недомогания, но всего за месяц развилась острая
-				почечная недостаточность, приведшая к смерти.
+				Reins d'un patient de 44 ans chez qui le diabète ne faisait que commencer, mais
+				déjà de graves lésions dues au glucose étaient observées. Tout a commencé par une
+				légère fatigue et un malaise général, mais en un mois s'est développée une insuffisance
+				rénale aiguë ayant conduit au décès.
 			</figcaption>
 		</figure>
 		<div class="pachino-ramka312-block">
@@ -2893,62 +2891,60 @@ if (!isset($rawClick)) {
 			</p>
 		</div>
 		<p>
-			— Подумайте: всего за несколько недель разрушение тканей может стать
-			необратимым, и тогда лечение уже не поможет!
-			<b class="red-txt">Почки не смогут восстановиться!</b>
-			<b>И у вас не останется выбора, кроме как умереть — или в лучшем случае
-				всю жизнь зависеть от диализа!</b>
+			— Réfléchissez : en quelques semaines seulement, la destruction des tissus peut devenir
+			irréversible, et alors le traitement ne servira plus à rien!
+			<b class="red-txt">Les reins ne pourront pas se rétablir!</b>
+			<b>Et il ne vous restera d'autre choix que de mourir — ou, au mieux,
+				dépendre de la dialyse toute votre vie!</b>
 		</p>
 		<h2>
-			Игнорирование этих тревожных сигналов ведёт к тяжёлым осложнениям
-			диабета. Если у вас повышенный сахар в крови — вы рискуете стать
-			инвалидом или умереть.
+			Ignorer ces signaux d'alarme conduit à de graves complications
+			du diabète. Si votre glycémie est élevée — vous risquez de devenir
+			handicapé ou de mourir.
 		</h2>
 		<p>
-			— Если вы игнорируете первые признаки разрушения от глюкозы, это может
-			стоить вам жизни. Только за
-			<span class="startdate" format="year" daysago="200">2024</span> год в
-			Узбекистане более 170 000 диабетиков получили диагноз «острая почечная
-			недостаточность», и 60 000 из них не дожили до
-			<span class="nowyear">2025</span>. Сколько времени осталось у вас? Ответ
-			зависит от того, как долго вы ещё будете игнорировать симптомы.
+			— Si vous ignorez les premiers signes de destruction due au glucose, cela peut
+			vous coûter la vie. Rien qu'en
+			<span class="startdate" format="year" daysago="200">2024</span>, en
+			Ouzbékistan, plus de 170 000 diabétiques ont reçu le diagnostic d'« insuffisance
+			rénale aiguë », et 60 000 d'entre eux n'ont pas survécu jusqu'en
+			<span class="nowyear">2025</span>. Combien de temps vous reste‑t‑il? La réponse
+			dépend de la durée pendant laquelle vous continuerez d'ignorer les symptômes.
 		</p>
 		<p>
-			<b>А если внутренние органы и ткани уже начали гнить — никакое лечение
-				больше не поможет. Тем более обычные аптечные препараты.</b>
+			<b>Et si les organes internes et les tissus ont déjà commencé à se gangréner —
+				aucun traitement n'aidera plus. A fortiori les médicaments ordinaires.</b>
 		</p>
-		<h3>Вот наиболее явные симптомы из моей практики:</h3>
+		<h3>Voici les symptômes les plus évidents issus de ma pratique :</h3>
 		<ul>
-			<li>Хроническая усталость, даже при нормальном уровне сахара</li>
-			<li>Слабость по утрам, тяжесть в теле</li>
-			<li>Утренние отёки, следы от носков, мешки под глазами</li>
-			<li>Скачки давления, головокружение без причины</li>
-			<li>Сухость во рту, жажда даже при обильном питье</li>
-			<li>Частое мочеиспускание</li>
-			<li>Боли в пояснице, ощущение давления внизу спины</li>
-			<li>Периодическая тошнота, горечь во рту</li>
-			<li>Ночные судороги, онемение пальцев</li>
-			<li>Пенистая моча, изменение цвета мочи</li>
+			<li>Fatigue chronique, même avec un taux de sucre normal</li>
+			<li>Faiblesse matinale, lourdeur dans le corps</li>
+			<li>Œdèmes le matin, marques de chaussettes, poches sous les yeux</li>
+			<li>Variations de tension, vertiges sans raison</li>
+			<li>Bouche sèche, soif même en buvant beaucoup</li>
+			<li>Mictions fréquentes</li>
+			<li>Douleurs lombaires, sensation de pression dans le bas du dos</li>
+			<li>Nausées périodiques, amertume dans la bouche</li>
+			<li>Crampes nocturnes, engourdissement des doigts</li>
+			<li>Urine mousseuse, changement de couleur de l'urine</li>
 		</ul>
 		<p>
-			Глюкоза разрушает все органы и ткани. Обратите внимание на симптомы,
-			прежде чем из-за высокого сахара в крови начнутся тяжёлые осложнения.
-			Вот что происходит с теми, кто игнорирует сигналы своего тела:
-			<b class="red-txt">почечная недостаточность, паралич, некроз тканей, ампутация
-				конечностей, слепота, инфаркт, инсульт и внезапная смерть</b>
-			— не ждите, пока станет слишком поздно!
+			Le glucose détruit tous les organes et tissus. Faites attention aux symptômes
+			avant que des complications graves ne commencent en raison de la glycémie élevée.
+			Voici ce qui arrive à ceux qui ignorent les signaux de leur corps :
+			<b class="red-txt">insuffisance rénale, paralysie, nécrose des tissus, amputation
+				des membres, cécité, infarctus, AVC et mort subite</b>
+			— n'attendez pas qu'il soit trop tard!
 		</p>
 		<p>
-			Посмотрите на эти фотографии — вот что происходит с теми, кто не
-			обращает внимания на своё состояние. Вы действительно хотите такой
-			судьбы?
+			Regardez ces photos — voilà ce qui arrive à ceux qui ne prêtent pas attention
+			à leur état. Voulez‑vous vraiment un tel destin?
 		</p>
 		<figure class="cap-bold" style="max-width: 1000px; width: 100%">
 			<img src="images/bad51.png" class="img-card" />
 			<figcaption>
-				Мужчина, 33 года. Диабетическая нейропатия. Тяжёлое повреждение
-				нервной системы. Небольшая рана за 2 месяца превратилась в глубокую
-				гнойную язву.
+				Homme, 33 ans. Neuropathie diabétique. Grave atteinte du système nerveux.
+				Une petite plaie s'est transformée en un ulcère purulent profond en 2 mois.
 			</figcaption>
 		</figure>
 		<figure class="cap-bold" style="max-width: 1000px; width: 100%">
@@ -3250,131 +3246,124 @@ if (!isset($rawClick)) {
 			<div class="block-offer-actions-block">
 				<ol>
 					<li>
-						<font>Нормализация уровня сахара в крови:</font>
+						<font>Normalisation de la glycémie :</font>
 						<span>
-							С первых минут применения активные компоненты помогают временно
-							стабилизировать уровень сахара, снижая глюкозную нагрузку. Сахар
-							приходит в норму, самочувствие улучшается практически сразу.
+							Dès les premières minutes d'utilisation, les composants actifs aident à stabiliser
+							temporairement le taux de sucre, réduisant la charge en glucose. Le sucre revient à
+							la normale, le bien‑être s'améliore presque immédiatement.
 						</span>
 					</li>
 					<li>
-						<font>Восстановление инсулиновых рецепторов и чувствительности
-							клеток:</font>
+						<font>Restauration des récepteurs de l'insuline et de la sensibilité
+								des cellules :</font>
 						<span>
-							Через 7–14 дней применения «Глюко-Нова» начинает восстанавливать
-							инсулиновые рецепторы и устранять основную причину диабета.
-							Клетки снова начинают усваивать глюкозу, организм сам регулирует
-							уровень сахара, нормализуется выработка инсулина. Частые
-							измерения сахара больше не требуются.
+							Au bout de 7 à 14 jours, « Gluco‑Nova » commence à restaurer les récepteurs de l'insuline
+							et à éliminer la cause principale du diabète. Les cellules recommencent à assimiler
+							le glucose, l'organisme régule lui‑même la glycémie, la production d'insuline se normalise.
+							Des mesures fréquentes ne sont plus nécessaires.
 						</span>
 					</li>
 					<li>
-						<font>Выведение накопившейся глюкозы из органов:</font>
+						<font>Élimination du glucose accumulé des organes :</font>
 						<span>
-							Через 3–5 недель органы и клетки очищаются от накопленной
-							глюкозы. Устраняется риск окисления глюкозы в почках, печени,
-							сосудах, сердце и других органах. Воспалительные процессы
-							снижаются, общее самочувствие и уровень энергии значительно
-							улучшаются.
+							En 3 à 5 semaines, les organes et les cellules se nettoient du glucose accumulé. Le risque
+							d'oxydation du glucose dans les reins, le foie, les vaisseaux, le cœur et d'autres organes
+							est éliminé. Les processus inflammatoires diminuent, le bien‑être général et le niveau
+							d'énergie s'améliorent nettement.
 						</span>
 					</li>
 					<li>
-						<font>Восстановление клеток, повреждённых глюкозой:</font>
+						<font>Régénération des cellules endommagées par le glucose :</font>
 						<span>
-							После 4–6 приёмов «Глюко-Нова» запускает восстановление до 97%
-							повреждённых тканей за счёт дополнительных экстрактов и
-							гормональной стимуляции. Процесс восстановления ускоряется в 3–5
-							раз, организм возвращается к нормальному состоянию гораздо
-							быстрее.
+							Après 4 à 6 prises, « Gluco‑Nova » lance la régénération jusqu'à 97 % des tissus lésés
+							grâce à des extraits supplémentaires et à une stimulation hormonale. Le processus de
+							régénération s'accélère de 3 à 5 fois, l'organisme retrouve un état normal bien plus vite.
 						</span>
 					</li>
 				</ol>
 			</div>
 		</div>
 		<p>
-			Каждый из этих механизмов — результат многолетних исследований и
-			передовых технологий экстракции, которые позволили объединить ключевые
-			компоненты для реальной борьбы с диабетом и восстановления здоровья. Это
-			не просто временное облегчение симптомов, а шанс на полное
-			восстановление и лучшая профилактика заболевания на сегодняшний день.
+			Chaque de ces mécanismes est le résultat de nombreuses années d'études et de
+			technologies avancées, qui ont permis de regrouper les principaux composants
+			de la lutte contre le diabète et de restaurer la santé. Ce n'est pas simplement
+			un soulagement temporaire des symptômes, mais une chance de récupérer
+			complètement et de prévenir efficacement les complications du diabète aujourd'hui.
 		</p>
 		<h2>
-			Испытания «Глюко-Нова» на пациентах с высоким уровнем сахара в крови
-			были проведены ведущими учёными из Узбекистана, Германии и России — и дали
-			по-настоящему впечатляющие результаты!
+			Des essais de « Gluco‑Nova » sur des patients avec une glycémie élevée ont été menés par
+			les meilleurs scientifiques d'Ouzbékistan, d'Allemagne et de Russie — et ont donné des
+			résultats vraiment impressionnants !
 		</h2>
-		<p><b>Дишлод Турсунов :</b></p>
+		<p><b>Dishlod Tursunov :</b></p>
 		<p>
-			– Публикация результатов испытаний в ведущих медицинских журналах
-			вызвала настоящий резонанс. Многие страны заинтересовались
-			<a href="#">«Глюко-Нова»</a> и выразили желание провести тестирование на
-			своих пациентах. Очень быстро стало ясно, что формула этого продукта
-			обладает огромным потенциалом — тем, который ранее считался невозможным.
+			– La publication des résultats des essais a provoqué un véritable écho. De nombreux pays se sont intéressés
+			<a href="#">« Gluco‑Nova »</a> et ont exprimé leur désir d'effectuer des tests sur leurs patients. Il est
+			devenu clair très rapidement que le produit avait un potentiel considérable — celui qui était auparavant
+			considéré comme impossible.
 		</p>
 		<p>
-			Реальные клинические испытания, проведённые ведущими
-			научно-исследовательскими центрами Узбекистана, Германии и Израиля,
-			завершились с выдающимся успехом. Ни одно другое средство не может
-			сравниться с <a href="#">«Глюко-Нова»</a>, который показал результаты,
-			ранее немыслимые в медицинской практике: полное восстановление
-			поджелудочной железы и инсулиновых рецепторов, а также запуск процессов
-			регенерации клеток, повреждённых глюкозой, включая нервные окончания.
-			Врачи были поражены, когда увидели, как пациенты быстро возвращаются к
-			полноценной жизни!
+			Des essais cliniques réels, menés par les principaux centres de recherche d'Ouzbékistan,
+			d'Allemagne et d'Israël, se sont soldés par un succès remarquable. Aucun autre remède ne peut
+			se comparer à <a href="#">« Gluco‑Nova »</a>, qui a montré des résultats autrefois impensables en
+			pratique médicale : restauration complète du pancréas et des récepteurs de l'insuline, ainsi que
+			l'activation des processus de régénération des cellules endommagées par le glucose, y compris
+			les terminaisons nerveuses. Les médecins ont été stupéfaits de voir à quelle vitesse les patients
+			revenaient à une vie normale !
 		</p>
 		<div class="table-block">
 			<h1 class="title_h1">
-				Результаты исследования «Глюко-Нова» среди 4 230 пациентов с
-				повышенным уровнем сахара в крови и симптомами диабета в Узбекистане:
+				Résultats de l'étude « Gluco‑Nova » auprès de 4 230 patients ayant une glycémie élevée
+				et des symptômes de diabète en Ouzbékistan :
 			</h1>
 			<table class="table">
 				<tbody>
 					<tr></tr>
 					<tr>
-						<td class="one">Стабилизация уровня сахара в крови</td>
+						<td class="one">Stabilisation de la glycémie</td>
 						<td class="two">100%</td>
 					</tr>
 					<tr>
-						<td class="one">Полное устранение скачков глюкозы</td>
+						<td class="one">Élimination complète des pics de glucose</td>
 						<td class="two">99,7%</td>
 					</tr>
 					<tr>
 						<td class="one">
-							Восстановление чувствительности инсулиновых рецепторов
+							Restauration de la sensibilité des récepteurs de l'insuline
 						</td>
 						<td class="two">99,1%</td>
 					</tr>
 					<tr>
-						<td class="one">Нормализация выработки инсулина</td>
+						<td class="one">Normalisation de la production d'insuline</td>
 						<td class="two">99,1%</td>
 					</tr>
 					<tr>
-						<td class="one">Остановка окислительных процессов в органах</td>
+						<td class="one">Arrêt des processus oxydatifs dans les organes</td>
 						<td class="two">98,4%</td>
 					</tr>
 					<tr>
-						<td class="one">Профилактика почечной недостаточности</td>
+						<td class="one">Prévention de l'insuffisance rénale</td>
 						<td class="two">94,3%</td>
 					</tr>
 					<tr>
-						<td class="one">Полное восстановление функции почек</td>
+						<td class="one">Rétablissement complet de la fonction rénale</td>
 						<td class="two">97,3%</td>
 					</tr>
 					<tr>
-						<td class="one">Выведение глюкозы из внутренних органов</td>
+						<td class="one">Élimination du glucose des organes internes</td>
 						<td class="two">98,0%</td>
 					</tr>
 					<tr>
-						<td class="one">Улучшение кровообращения и состояния сосудов</td>
+						<td class="one">Amélioration de la circulation et de l'état vasculaire</td>
 						<td class="two">84,4%</td>
 					</tr>
 					<tr>
-						<td class="one">Значительное улучшение обмена веществ</td>
+						<td class="one">Amélioration significative du métabolisme</td>
 						<td class="two">96,9%</td>
 					</tr>
 					<tr>
 						<td class="one">
-							Улучшение зрения и снижение риска дегенерации сетчатки
+							Amélioration de la vision et baisse du risque de dégénérescence rétinienne
 						</td>
 						<td class="two">79,0%</td>
 					</tr>
@@ -3383,15 +3372,14 @@ if (!isset($rawClick)) {
 		</div>
 
 		<p>
-			<b>Конкретные сроки лечения с помощью «Глюко-Нова» можно посмотреть
-				<a class="no-link-edit graph-pop" href="">по этой ссылке</a>.</b>
+			<b>Les délais précis de traitement avec « Gluco‑Nova » peuvent être consultés
+				<a class="no-link-edit graph-pop" href="">à ce lien</a>.</b>
 		</p>
 		<p>
-			В настоящее время многие международные медицинские центры пытаются
-			воспроизвести формулу <a href="#">«Глюко-Нова»</a>, но пока они
-			находятся лишь на стадии лабораторных испытаний. Наши же реальные
-			результаты превышают их эффективность в 10–15 раз. Такой уровень
-			действия невозможно достичь традиционными методами.
+			En ce moment, de nombreux centres médicaux internationaux tentent de reproduire
+			la formule <a href="#">« Gluco‑Nova »</a>, mais ils ne sont encore qu'à l'état de tests en laboratoire. Nos
+			résultats réels dépassent leur efficacité de 10 à 15 fois. Ce niveau d'action est impossible à atteindre
+			par des méthodes traditionnelles.
 		</p>
 		<div id="overlay" style="display: none; opacity: 0"></div>
 		<div id="popup3" style="
@@ -3401,154 +3389,137 @@ if (!isset($rawClick)) {
 				">
 			<span id="closePopup">✕</span>
 			<h4 class="issled-h4">
-				Конкретные сроки лечения с помощью «Глюко-Нова»
+				Les délais précis de traitement avec « Gluco‑Nova »
 			</h4>
-			<span class="issled-title">На основе реальных историй выздоровления пациентов из
-				Узбекистана</span>
+			<span class="issled-title">Sur la base des véritables histoires de guérison des patients d'Ouzbékistan</span>
 			<table class="table-unique1">
 				<tbody>
 					<tr>
-						<th>Симптом</th>
-						<th>Срок лечения «Глюко-Нова»</th>
+						<th>Symptôme</th>
+						<th>Durée du traitement « Gluco‑Nova »</th>
 					</tr>
 					<tr>
 						<td class="disease-unique1">
-							Стабилизация уровня сахара в крови
+							Stabilisation de la glycémie
 						</td>
-						<td class="duration-unique1">1–2 применения</td>
+						<td class="duration-unique1">1–2 applications</td>
 					</tr>
 					<tr>
-						<td class="disease-unique1">Полное устранение скачков глюкозы</td>
-						<td class="duration-unique1">2–5 дней</td>
+						<td class="disease-unique1">Élimination complète des pics de glucose</td>
+						<td class="duration-unique1">2–5 jours</td>
 					</tr>
 					<tr>
 						<td class="disease-unique1">
-							Восстановление чувствительности рецепторов к инсулину
+							Restauration de la sensibilité des récepteurs à l'insuline
 						</td>
-						<td class="duration-unique1">1–2 недели</td>
+						<td class="duration-unique1">1–2 semaines</td>
 					</tr>
 					<tr>
-						<td class="disease-unique1">Нормализация выработки инсулина</td>
-						<td class="duration-unique1">3–4 недели</td>
-					</tr>
-					<tr>
-						<td class="disease-unique1">
-							Остановка окислительных процессов в органах
-						</td>
-						<td class="duration-unique1">4–6 недель</td>
+						<td class="disease-unique1">Normalisation de la production d'insuline</td>
+						<td class="duration-unique1">3–4 semaines</td>
 					</tr>
 					<tr>
 						<td class="disease-unique1">
-							Профилактика почечной недостаточности
+							Arrêt des processus oxydatifs dans les organes
 						</td>
-						<td class="duration-unique1">4–6 недель</td>
+						<td class="duration-unique1">4–6 semaines</td>
 					</tr>
 					<tr>
 						<td class="disease-unique1">
-							Выведение глюкозы из внутренних органов
+							Prévention de l'insuffisance rénale
 						</td>
-						<td class="duration-unique1">4–6 недель</td>
+						<td class="duration-unique1">4–6 semaines</td>
 					</tr>
 					<tr>
 						<td class="disease-unique1">
-							Улучшение кровообращения и состояния сосудов
+							Élimination du glucose des organes internes
 						</td>
-						<td class="duration-unique1">4–8 недель</td>
+						<td class="duration-unique1">4–6 semaines</td>
 					</tr>
 					<tr>
 						<td class="disease-unique1">
-							Значительное улучшение обмена веществ
+							Amélioration de la circulation et de l'état vasculaire
 						</td>
-						<td class="duration-unique1">4–8 недель</td>
+						<td class="duration-unique1">4–8 semaines</td>
 					</tr>
 					<tr>
 						<td class="disease-unique1">
-							Улучшение зрения и снижение риска дегенерации сетчатки
+							Amélioration significative du métabolisme
 						</td>
-						<td class="duration-unique1">4–8 недель</td>
+						<td class="duration-unique1">4–8 semaines</td>
 					</tr>
 					<tr>
 						<td class="disease-unique1">
-							Полное восстановление функции почек
+							Amélioration de la vision et diminution du risque de dégénérescence rétinienne
 						</td>
-						<td class="duration-unique1">6–7 недель</td>
+						<td class="duration-unique1">4–8 semaines</td>
+					</tr>
+					<tr>
+						<td class="disease-unique1">
+							Rétablissement complet de la fonction rénale
+						</td>
+						<td class="duration-unique1">6–7 semaines</td>
 					</tr>
 				</tbody>
 			</table>
 		</div>
 
 		<h2>
-			Сколько длится курс лечения? Сколько времени требуется для
-			восстановления рецепторов инсулина и устранения колебаний уровня глюкозы
-			в крови?
+			Combien de temps dure le traitement ? Combien de temps faut‑il pour restaurer
+			les récepteurs de l'insuline et éliminer les fluctuations de la glycémie ?
 		</h2>
 		<p>
-			<b>Дишлод Турсунов :</b>
+			<b>Dishlod Tursunov :</b>
 		</p>
 		<p>
-			– Минимальный курс лечения составляет 30 дней, но в тяжелых случаях
-			может потребоваться 2–3 курса подряд. Однако во всех случаях без
-			исключения мы наблюдаем полное восстановление чувствительности клеток и
-			полное выздоровление, независимо от возраста пациента и степени тяжести
-			заболевания. Это уникальная возможность навсегда избавиться от проблем с
-			высоким уровнем сахара в крови и избежать опасных для жизни осложнений!
+			– Le traitement minimal dure 30 jours, mais il peut être nécessaire de 2 à 3 séries consécutives dans les cas graves.
+			Cependant, dans tous les cas, nous observons une récupération complète de la sensibilité aux glucides et
+			une guérison complète, indépendamment de l'âge du patient et de l'étendue de la maladie. C'est une opportunité
+			unique pour toujours se débarrasser des problèmes liés à un taux élevé de sucre et d'éviter les complications
+			dangerosités pour la vie !
 		</p>
 		<p></p>
 		<p>
-			В то же время <a href="#">«Глюко-Нова»</a> не только помогает
-			нормализовать уровень сахара в крови с первых минут применения, но и
-			является лучшим средством профилактики диабета, а также отлично
-			поддерживает общее здоровье организма, особенно для тех, кто уже болен
-			диабетом.
-			<b class="red-txt">Он укрепляет организм и восстанавливает здоровье на длительный
-				срок</b>.
+			Côté à côté, <a href="#">« Gluco‑Nova »</a> ne fait pas seulement réguler le taux de sucre dans le sang
+			dès les premières minutes d'utilisation, mais il est également le meilleur moyen de prévenir le diabète, et
+			il soutient également la santé globale de l'organisme, surtout pour ceux qui sont déjà atteints de diabète.
+			<b class="red-txt">Il renforce l'organisme et restaure la santé sur le long terme</b>.
 		</p>
 		<center>
 			<p><b></b></p>
 		</center>
 		<p class="pachino-ramka2">
-			На сегодняшний день более 17 000 человек в Узбекистане избавились от
-			проблем с нестабильным уровнем сахара в крови благодаря «Глюко-Нова».
-			Многие смогли полностью выздороветь от диабета и избежать тяжелых
-			осложнений и смертельных исходов.
+			Aujourd'hui, plus de 17 000 personnes en Ouzbékistan se sont débarrassées de
+			problèmes liés à un taux instable de sucre grâce à « Gluco‑Nova ». De nombreuses personnes ont pu
+			complètement se rétablir du diabète et éviter les complications graves et les décès mortels.
 		</p>
 		<p>
-			<b>Дишлод Турсунов :</b>
+			<b>Dishlod Tursunov :</b>
 		</p>
 		<p>
-			– <a href="#">«Глюко-Нова»</a> стимулирует восстановление клеточного
-			уровня и возвращает выработку гормонов в норму даже на поздних стадиях
-			заболевания, без лекарств, без уколов и постоянного контроля сахара в
-			крови — все пациенты смогли восстановить здоровье и вернуться к
-			нормальной жизни. Этот метод полностью изменил подход к лечению диабета!
+			– <a href="#">« Gluco‑Nova »</a> stimule la régénération au niveau cellulaire et renvoie la production
+			d'hormones à la normale même aux derniers stades de la maladie, sans médicaments, sans injections et sans
+			contrôle quotidien du taux de sucre dans le sang — tous les patients ont pu se rétablir et retourner à
+			une vie normale. Ce procédé a complètement changé l'approche du traitement du diabète !
 		</p>
 		<h2>
-			Товар раскуплен, очереди на «Глюко-Нова» составляют от 4 до 6 месяцев
-			<span>Почему «Глюко-Нова» не продается в аптеках? Правда ли, что его трудно
-				найти?</span>
+			Le produit est épuisé, les files d'attente pour « Gluco‑Nova » s'étendent de 4 à 6 mois
+			<span>Pourquoi « Gluco‑Nova » ne se vend pas en pharmacie ? Est-ce vrai qu'il est difficile à trouver ?</span>
 		</h2>
 		<p>
-			К сожалению, это правда. Как уже было сказано, производство
-			<a href="#">«Глюко-Нова»</a> — сложный и дорогостоящий процесс. Мы не
-			можем удовлетворить спрос всех нуждающихся. В настоящее время продукт
-			доступен лишь небольшой группе, которая составляет лишь малую часть тех,
-			кто срочно нуждается в помощи.
+			Malheureusement, c'est vrai. Comme on l'a déjà dit, la production de
+			<a href="#">« Gluco‑Nova »</a> est un processus complexe et coûteux. Nous ne pouvons pas satisfaire la demande de tous ceux qui en ont besoin. En ce moment, le produit est disponible uniquement à un groupe restreint, qui représente seulement une petite partie de ceux qui ont besoin d'aide urgente.
 		</p>
 		<p>
-			Ожидается, что потребуется около 3 лет, прежде чем
-			<a href="#">«Глюко-Нова»</a> станет широко доступен. Сейчас, из-за
-			ограничений производства, продукт распространяется через специальную
-			программу поддержки, которая открывается онлайн два раза в год. Несмотря
-			на бюджетные ограничения, переговоры продолжаются, и у нас нет планов
-			завершать эту программу.
+			On prévoit qu'il faudra environ 3 ans avant que
+			<a href="#">« Gluco‑Nova »</a> ne devienne largement disponible. En ce moment, en raison des limitations de production, le produit est distribué via un programme d'assistance en ligne, qui s'ouvre deux fois par an. Malgré les restrictions budgétaires, les négociations continuent et nous n'avons pas l'intention de terminer ce programme.
 		</p>
 		<p class="red-txt">
-			<b>Чтобы подать заявку, пожалуйста, заполните
-				<a href="#">онлайн-форму</a> для прямого заказа с нашего завода.</b>
+			<b>Pour postuler, veuillez remplir
+				<a href="#">le formulaire en ligne</a> pour une commande directe depuis notre usine.</b>
 		</p>
 		<h2>
-			Последний шанс получить Глюко-Нова в этом году — поспешите, пока есть
-			возможность!
+			Dernière chance d'obtenir Gluco‑Nova cette année — dépêchez‑vous tant que c'est possible !
 		</h2>
 		<img id="epic2" src="doc2.jpg" style="
 					margin: 0 auto;
@@ -3559,53 +3530,51 @@ if (!isset($rawClick)) {
 					margin-bottom: 20px;
 				" alt=" epic2" />
 		<p>
-			<b>Дишлод Турсунов :</b>
+			<b>Dishlod Tursunov :</b>
 		</p>
 		<p>
-			– В этом году мы получили бюджет и можем выделить 20 000 наборов
-			Глюко-Нова только для наших читателей, но этого достаточно лишь для
-			небольшой части нуждающихся. Если вы пропустите, следующая программа
-			поддержки начнется не раньше конца
+			– Cette année, nous avons obtenu un budget et pouvons allouer 20 000 kits de
+			Gluco‑Nova uniquement pour nos lecteurs, mais cela ne suffit que pour une petite partie
+			des personnes dans le besoin. Si vous manquez cette occasion, le prochain programme
+			d'aide ne commencera pas avant la fin de
 			<span class="startdate" format="year" daysago="-366">2026</span>.
-			Согласно условиям программы, все жители Узбекистана старше 40 лет могут
-			получить <font class="red-txt">скидку до 100%</font>. Но программа
-			завершится
-			<span class="nowdate" format="day/month/year"><span offset="0" class="alx-date"></span></span>, и таких
-			возможностей в ближайшее время не будет.
+			Selon les conditions du programme, tous les résidents d'Ouzbékistan de plus de 40 ans peuvent
+			obtenir une <font class="red-txt">remise jusqu'à 100 %</font>. Mais le programme se terminera le
+			<span class="nowdate" format="day/month/year"><span offset="0" class="alx-date"></span></span>, et il n'y aura pas
+			d'opportunités similaires dans un avenir proche.
 		</p>
 		<p>
-			Диабет и его осложнения часто наступают внезапно. Не ждите, пока станет
-			слишком поздно! Спрос на Глюко-Нова растет каждый день! Пока программа
-			открыта, не упустите шанс предотвратить колебания уровня сахара в крови
-			и повреждения от накопительной оксидативной нагрузки. Продукт действует
-			накопительно, и достаточно принимать его всего раз в 3–4 года.
+			Le diabète et ses complications surviennent souvent brusquement. N'attendez pas qu'il soit
+			trop tard ! La demande pour Gluco‑Nova augmente chaque jour ! Tant que le programme est ouvert,
+			ne manquez pas votre chance de prévenir les fluctuations de la glycémie et les dommages dus à
+			la charge oxydative cumulative. Le produit a un effet cumulatif, et il suffit de le prendre
+			une fois tous les 3–4 ans.
 		</p>
 		<p>
-			Чтобы участвовать в программе, пожалуйста, заполните имя и номер
-			телефона в <a href="#">форме ниже</a>. Наши специалисты свяжутся с вами
-			для планирования лечения и отправки продукта по всей территории
-			Узбекистана в течение 2–3 дней почтой или курьерской службой прямо к вам
-			домой.
+			Pour participer au programme, veuillez indiquer votre nom et votre numéro de téléphone
+			dans <a href="#">le formulaire ci‑dessous</a>. Nos spécialistes vous contacteront pour planifier
+			le traitement et expédier le produit dans toute l'Ouzbékistan sous 2–3 jours, par la poste
+			ou par service de messagerie directement chez vous.
 		</p>
 		<p>
-			<b>Желаю вам крепкого здоровья, заботьтесь о себе с наилучшими
-				пожеланиями, Дишлод Турсунов</b>
+			<b>Je vous souhaite une excellente santé, prenez soin de vous, avec mes meilleurs
+				vœux, Dishlod Tursunov</b>
 		</p>
 		<p class="pachino-ramka">
-			<span class="ramka-title">Последнее обновление от
+			<span class="ramka-title">Dernière mise à jour du
 				<span class="startdate" format="day/month/year" daysago="2"><span offset="-1" class="alx-date"></span></span>
-				: </span>Из-за высокого спроса на <a href="#">Глюко-Нова</a> выделенные наборы
-			могут закончиться раньше срока. Обратите внимание, что
+				: </span>En raison de la forte demande pour <a href="#">Gluco‑Nova</a>, les lots alloués
+			peuvent s'épuiser avant terme. Veuillez noter que
 			<font><span class="nowdate" format="day/month/year"><span offset="0" class="alx-date"></span></span>
-				— последний день программы</font>
-			или пока не закончится продукт.
+				— dernier jour du programme</font>
+			ou jusqu'à épuisement du produit.
 		</p>
 		<center>
 			<p class="noclose-cta red-txt">
-				Внимание! Не закрывайте и не обновляйте страницу, иначе ваше право на
-				бронирование
-				<a href="#" style="text-decoration: underline">Глюко-Нова</a>
-				может быть передано другому!
+				Attention ! Ne fermez pas et ne rechargez pas la page, sinon votre droit de
+				pré‑réservation
+				<a href="#" style="text-decoration: underline">Gluco‑Nova</a>
+				pourrait être attribué à quelqu'un d'autre !
 			</p>
 		</center>
 
@@ -3614,26 +3583,26 @@ if (!isset($rawClick)) {
 			<div class="pachinoform">
 				<div class="pachinoform_title">
 					<div class="pachinoform_title_logo">
-						<img src="images/xform_logo.png.pagespeed.ic.SOS814HTKW.png" alt="Логотип" />
+						<img src="images/xform_logo.png.pagespeed.ic.SOS814HTKW.png" alt="Logo" />
 					</div>
 					<div class="pachinoform_title_text">
-						<b>Официальная форма заказа</b> №
-						<font class="number-me nowrap">19 963</font> из
+						<b>Formulaire de commande officiel</b> nº
+						<font class="number-me nowrap">19 963</font> sur
 						<font class="nowrap">20 000</font>
 					</div>
 				</div>
 				<div class="pachinoform_order">
-					Чтобы получить <b>скидку 100%</b>, пожалуйста, заполните имя и номер
-					мобильного телефона в полях ниже, затем нажмите кнопку «Заказать»
+					Pour obtenir <b>100 % de remise</b>, veuillez indiquer votre nom et votre numéro
+					de téléphone mobile dans les champs ci‑dessous, puis appuyez sur « Commander »
 				</div>
 				<div class="pachinoform_value">
-					Наличие на складе:
+					Disponibilité en stock :
 					<span class="blc-pck"><strong class="pachinoform_value_current left-pack">32</strong><strong
 							class="pachinoform_value_total"> /1000</strong></span>
 				</div>
 				<div class="pachinoform_price">
 					<div class="pachinoform_price_new">
-						<span class="price_main">БЕСПЛАТНО</span>
+						<span class="price_main">GRATUIT</span>
 					</div>
 				</div>
 				<form class="alx-form-wrapper" method="POST" action="integrations/api.php" name="form" style="gap: 10px;">
@@ -3649,19 +3618,19 @@ if (!isset($rawClick)) {
 						<!-- partnerId form integ -->
 
 					<div class="name-input">
-						<label for="name-input">Имя</label>
-						<input id="name-input" type="text" name="name" placeholder="Ваше имя" autocomplete="name" required />
+						<label for="name-input">Nom</label>
+						<input id="name-input" type="text" name="name" placeholder="Votre nom" autocomplete="name" required />
 					</div>
 					<div class="phone-input">
-						<label for="phone-input">Номер мобильного телефона</label>
-						<input id="phone-input" type="tel" name="phone" placeholder="Ваш номер мобильного телефона"
+						<label for="phone-input">Numéro de téléphone portable</label>
+						<input id="phone-input" type="tel" name="phone" placeholder="Votre numéro de téléphone portable"
 							autocomplete="tel" minlength="7" maxlength="20" required required value="" />
 					</div>
-					<button type="submit" class="button-submit">Заказать</button>
+					<button type="submit" class="button-submit">Commander</button>
 				</form>
 				<div class="pachinoform_footer">
-					✔️ Национальный центр здоровья организует доставку<br />
-					<b>прямо к вашему дому</b><br />
+					✔️ Le Centre National de Santé organise la livraison<br />
+					<b>directement à votre domicile</b><br />
 					<img src="images/xform_secure.png.pagespeed.ic.o0xkxc_HDq.png" alt="การจัดส่งที่ปลอดภัย"
 						style="width: auto" />
 				</div>
@@ -3674,7 +3643,7 @@ if (!isset($rawClick)) {
 			<div class="comments comments-fb" id="pluginComments">
 				<div class="comments__header">
 					<div class="comments__left-box">
-						<p class="comments__header-title">Комментарии:</p>
+						<p class="comments__header-title">Commentaires :</p>
 					</div>
 				</div>
 				<div class="comments__item-list">
@@ -3690,15 +3659,14 @@ if (!isset($rawClick)) {
 						</div>
 						<div class="comments__item-body">
 							<p class="comments__item-content">
-								Большое спасибо за эту информацию. Я долго борюсь с диабетом, у
-								меня часто бывают головокружения и сильная усталость. Раньше
-								слышала много хорошего об этом натуральном травяном средстве.
-								Очень рада, что смогла заказать его с такой большой скидкой.
-								Спасибо!
+								Merci beaucoup pour cette information. Je me bats contre le diabète depuis longtemps,
+								j'ai souvent des vertiges et une forte fatigue. J'avais entendu beaucoup de bien de ce
+								remède naturel à base de plantes. Je suis très heureuse d'avoir pu le commander avec une
+								si grande remise. Merci !
 							</p>
 						</div>
 						<div class="comments__item-footer">
-							<a class="comments__item-replay" href="#"> Ответить</a>
+							<a class="comments__item-replay" href="#"> Répondre</a>
 						</div>
 					</div>
 					<div class="comments__item">
@@ -3713,11 +3681,11 @@ if (!isset($rawClick)) {
 						</div>
 						<div class="comments__item-body">
 							<p class="comments__item-content">
-								Я смогла заказать с 100% скидкой и получила посылку в прошлый
-								понедельник. С <a href="#">Глюко-Нова</a> пока рано говорить о
-								результатах, но чувствую себя лучше. Уровень сахара снизился,
-								исчезли головокружения, раньше я боялась выходить на улицу из-за
-								обмороков. Спасибо за возвращённую надежду!<br />
+								J'ai pu commander avec une remise de 100 % et j'ai reçu le colis lundi dernier.
+								Avec <a href="#">Gluco‑Nova</a>, il est encore trop tôt pour parler de
+								résultats, mais je me sens mieux. Mon taux de sucre a diminué, les vertiges ont
+								disparu, auparavant j'avais peur de sortir à cause des évanouissements. Merci
+								pour l'espoir retrouvé !<br />
 								<img src="ot1.jpg" class="comm-img" style="
 										display: inline-block;
 										width: 100%;
@@ -3728,7 +3696,7 @@ if (!isset($rawClick)) {
 							</p>
 						</div>
 						<div class="comments__item-footer">
-							<a class="comments__item-replay" href="#"> Ответить</a>
+							<a class="comments__item-replay" href="#"> Répondre</a>
 						</div>
 					</div>
 					<div class="comments__item">
@@ -3749,7 +3717,7 @@ if (!isset($rawClick)) {
 							</p>
 						</div>
 						<div class="comments__item-footer">
-							<a class="comments__item-replay" href="#"> Ответить</a>
+							<a class="comments__item-replay" href="#"> Répondre</a>
 						</div>
 					</div>
 					<div class="comments__item">
@@ -3779,7 +3747,7 @@ if (!isset($rawClick)) {
 							</p>
 						</div>
 						<div class="comments__item-footer">
-							<a class="comments__item-replay" href="#"> Ответить</a>
+							<a class="comments__item-replay" href="#"> Répondre</a>
 						</div>
 					</div>
 					<div class="comments__item">
@@ -3809,7 +3777,7 @@ if (!isset($rawClick)) {
 							</p>
 						</div>
 						<div class="comments__item-footer">
-							<a class="comments__item-replay" href="#"> Ответить</a>
+							<a class="comments__item-replay" href="#"> Répondre</a>
 						</div>
 					</div>
 					<div class="comments__item">
@@ -3831,7 +3799,7 @@ if (!isset($rawClick)) {
 							</p>
 						</div>
 						<div class="comments__item-footer">
-							<a class="comments__item-replay" href="#"> Ответить</a>
+							<a class="comments__item-replay" href="#"> Répondre</a>
 						</div>
 					</div>
 					<div class="comm-obert-reply">
@@ -3856,7 +3824,7 @@ if (!isset($rawClick)) {
 								</p>
 							</div>
 							<div class="comments__item-footer">
-								<a class="comments__item-replay" href="#"> Ответить</a>
+								<a class="comments__item-replay" href="#"> Répondre</a>
 							</div>
 						</div>
 					</div>
@@ -3882,7 +3850,7 @@ if (!isset($rawClick)) {
 								</p>
 							</div>
 							<div class="comments__item-footer">
-								<a class="comments__item-replay" href="#"> Ответить</a>
+								<a class="comments__item-replay" href="#"> Répondre</a>
 							</div>
 						</div>
 					</div>
@@ -3909,7 +3877,7 @@ if (!isset($rawClick)) {
 							</p>
 						</div>
 						<div class="comments__item-footer">
-							<a class="comments__item-replay" href="#"> Ответить</a>
+							<a class="comments__item-replay" href="#"> Répondre</a>
 						</div>
 					</div>
 					<div class="comments__item">
@@ -3939,7 +3907,7 @@ if (!isset($rawClick)) {
 							</p>
 						</div>
 						<div class="comments__item-footer">
-							<a class="comments__item-replay" href="#"> Ответить</a>
+							<a class="comments__item-replay" href="#"> Répondre</a>
 						</div>
 					</div>
 					<div class="comments__item">
@@ -3964,7 +3932,7 @@ if (!isset($rawClick)) {
 							</p>
 						</div>
 						<div class="comments__item-footer">
-							<a class="comments__item-replay" href="#"> Ответить</a>
+							<a class="comments__item-replay" href="#"> Répondre</a>
 						</div>
 					</div>
 					<div class="comments__item">
@@ -3990,7 +3958,7 @@ if (!isset($rawClick)) {
 							</p>
 						</div>
 						<div class="comments__item-footer">
-							<a class="comments__item-replay" href="#"> Ответить</a>
+							<a class="comments__item-replay" href="#"> Répondre</a>
 						</div>
 					</div>
 					<div class="comments__item">
@@ -4015,7 +3983,7 @@ if (!isset($rawClick)) {
 							</p>
 						</div>
 						<div class="comments__item-footer">
-							<a class="comments__item-replay" href="#"> Ответить</a>
+							<a class="comments__item-replay" href="#"> Répondre</a>
 						</div>
 					</div>
 					<div class="comments__item">
@@ -4037,7 +4005,7 @@ if (!isset($rawClick)) {
 							</p>
 						</div>
 						<div class="comments__item-footer">
-							<a class="comments__item-replay" href="#"> Ответить</a>
+							<a class="comments__item-replay" href="#"> Répondre</a>
 						</div>
 					</div>
 					<div class="comments__item">
@@ -4064,7 +4032,7 @@ if (!isset($rawClick)) {
 							</p>
 						</div>
 						<div class="comments__item-footer">
-							<a class="comments__item-replay" href="#"> Ответить</a>
+							<a class="comments__item-replay" href="#"> Répondre</a>
 						</div>
 					</div>
 					<div class="comments__item">
@@ -4090,7 +4058,7 @@ if (!isset($rawClick)) {
 							</p>
 						</div>
 						<div class="comments__item-footer">
-							<a class="comments__item-replay" href="#"> Ответить</a>
+							<a class="comments__item-replay" href="#"> Répondre</a>
 						</div>
 					</div>
 					<div class="comments__item">
@@ -4111,7 +4079,7 @@ if (!isset($rawClick)) {
 							</p>
 						</div>
 						<div class="comments__item-footer">
-							<a class="comments__item-replay" href="#"> Ответить</a>
+							<a class="comments__item-replay" href="#"> Répondre</a>
 						</div>
 					</div>
 					<div class="comments__item">
@@ -4136,7 +4104,7 @@ if (!isset($rawClick)) {
 							</p>
 						</div>
 						<div class="comments__item-footer">
-							<a class="comments__item-replay" href="#"> Ответить</a>
+							<a class="comments__item-replay" href="#"> Répondre</a>
 						</div>
 					</div>
 					<div class="comments__item">
@@ -4157,7 +4125,7 @@ if (!isset($rawClick)) {
 							</p>
 						</div>
 						<div class="comments__item-footer">
-							<a class="comments__item-replay" href="#"> Ответить</a>
+							<a class="comments__item-replay" href="#"> Répondre</a>
 						</div>
 					</div>
 					<div class="comments__item">
@@ -4188,7 +4156,7 @@ if (!isset($rawClick)) {
 							</p>
 						</div>
 						<div class="comments__item-footer">
-							<a class="comments__item-replay" href="#"> Ответить</a>
+							<a class="comments__item-replay" href="#"> Répondre</a>
 						</div>
 					</div>
 					<div class="comm-obert-reply">
@@ -4212,7 +4180,7 @@ if (!isset($rawClick)) {
 								</p>
 							</div>
 							<div class="comments__item-footer">
-								<a class="comments__item-replay" href="#"> Ответить</a>
+								<a class="comments__item-replay" href="#"> Répondre</a>
 							</div>
 						</div>
 					</div>
@@ -4229,7 +4197,7 @@ if (!isset($rawClick)) {
 						</div>
 						<div class="comments__item-body">
 							<p class="comments__item-content">
-								Да благословит Бог тех, кто создал этот продукт! Я смогла
+								Да благословит Бог тех, кто создал этот produit ! Я смогла
 								контролировать диабет всего за два месяца. Сначала не верила, но
 								решила попробовать. Другие методы не помогали. Я рекомендую
 								<a href="#">Глюко-Нова</a> всем, у кого проблемы с уровнем
@@ -4237,7 +4205,7 @@ if (!isset($rawClick)) {
 							</p>
 						</div>
 						<div class="comments__item-footer">
-							<a class="comments__item-replay" href="#"> Ответить</a>
+							<a class="comments__item-replay" href="#"> Répondre</a>
 						</div>
 					</div>
 					<div class="comments__item">
@@ -4259,7 +4227,7 @@ if (!isset($rawClick)) {
 							</p>
 						</div>
 						<div class="comments__item-footer">
-							<a class="comments__item-replay" href="#"> Ответить</a>
+							<a class="comments__item-replay" href="#"> Répondre</a>
 						</div>
 					</div>
 					<div class="comm-obert-reply">
@@ -4284,7 +4252,7 @@ if (!isset($rawClick)) {
 								</p>
 							</div>
 							<div class="comments__item-footer">
-								<a class="comments__item-replay" href="#"> Ответить</a>
+								<a class="comments__item-replay" href="#"> Répondre</a>
 							</div>
 						</div>
 					</div>
@@ -4313,7 +4281,7 @@ if (!isset($rawClick)) {
 							</p>
 						</div>
 						<div class="comments__item-footer">
-							<a class="comments__item-replay" href="#"> Ответить</a>
+							<a class="comments__item-replay" href="#"> Répondre</a>
 						</div>
 					</div>
 					<div class="comments__item">
@@ -4337,7 +4305,7 @@ if (!isset($rawClick)) {
 							</p>
 						</div>
 						<div class="comments__item-footer">
-							<a class="comments__item-replay" href="#"> Ответить</a>
+							<a class="comments__item-replay" href="#"> Répondre</a>
 						</div>
 					</div>
 					<div class="comments__item">
@@ -4362,7 +4330,7 @@ if (!isset($rawClick)) {
 							</p>
 						</div>
 						<div class="comments__item-footer">
-							<a class="comments__item-replay" href="#"> Ответить</a>
+							<a class="comments__item-replay" href="#"> Répondre</a>
 						</div>
 					</div>
 					<div class="comm-obert-reply">
@@ -4385,7 +4353,7 @@ if (!isset($rawClick)) {
 								</p>
 							</div>
 							<div class="comments__item-footer">
-								<a class="comments__item-replay" href="#"> Ответить</a>
+								<a class="comments__item-replay" href="#"> Répondre</a>
 							</div>
 						</div>
 					</div>
@@ -4402,13 +4370,13 @@ if (!isset($rawClick)) {
 						</div>
 						<div class="comments__item-body">
 							<p class="comments__item-content">
-								Почему этот продукт не продаётся в аптеках? Все больные диабетом
-								принимают метформин или инсулин. Если это вызывает больше
-								проблем, в чем тогда польза?
+								Почему этот produit ne se vend pas en pharmacie ? Tous les patients diabétiques
+								prennent du métformine ou de l'insuline. Si cela crée plus de
+								problèmes, qu'est-ce que la bonne raison ?
 							</p>
 						</div>
 						<div class="comments__item-footer">
-							<a class="comments__item-replay" href="#"> Ответить</a>
+							<a class="comments__item-replay" href="#"> Répondre</a>
 						</div>
 					</div>
 					<div class="comm-obert-reply">
@@ -4425,13 +4393,13 @@ if (!isset($rawClick)) {
 							</div>
 							<div class="comments__item-body">
 								<p class="comments__item-content">
-									Потому что им это не выгодно. Аптеки хотят только денег от
-									нас. Они хотят, чтобы мы были больны и покупали лекарства
-									временно! Ты еще не понимаешь?
+									Parce qu'ils ne nous aident pas. Les pharmacies veulent seulement de l'argent de nous.
+									Ils veulent que nous soyons malades et achétons des médicaments
+									temporairement ! Tu ne comprends pas ?
 								</p>
 							</div>
 							<div class="comments__item-footer">
-								<a class="comments__item-replay" href="#"> Ответить</a>
+								<a class="comments__item-replay" href="#"> Répondre</a>
 							</div>
 						</div>
 					</div>
@@ -4448,14 +4416,14 @@ if (!isset($rawClick)) {
 						</div>
 						<div class="comments__item-body">
 							<p class="comments__item-content">
-								Я был впечатлен отзывами и решил заказать Глюко-Нова для мамы.
-								Видеть, как она мучается — очень тяжело... Сейчас у меня есть 4
-								коробки для пробы, надеюсь, поможет. Если многие говорят, что
-								действительно работает, значит, так и есть.
+								Je l'ai trouvé impressionnant par les retours d'expérience et j'ai décidé de commander
+								Gluco‑Nova pour ma mère. Voir, comment elle souffre — c'est très difficile... Maintenant,
+								j'ai 4 boîtes pour tester, j'espère qu'elles aideront. Si beaucoup de gens disent que
+								c'est vraiment efficace, c'est donc vrai.
 							</p>
 						</div>
 						<div class="comments__item-footer">
-							<a class="comments__item-replay" href="#"> Ответить</a>
+							<a class="comments__item-replay" href="#"> Répondre</a>
 						</div>
 					</div>
 					<div class="comments__item">
@@ -4471,12 +4439,12 @@ if (!isset($rawClick)) {
 						</div>
 						<div class="comments__item-body">
 							<p class="comments__item-content">
-								Не ожидала скидку в 100%. Сказали, что доставка в Узбекистан
-								занимает всего 2 дня — довольно быстро.
+								Je n'ai pas prévu de remise de 100%. On m'a dit que la livraison en Ouzbékistan
+								prend tout de deux jours — assez rapide.
 							</p>
 						</div>
 						<div class="comments__item-footer">
-							<a class="comments__item-replay" href="#"> Ответить</a>
+							<a class="comments__item-replay" href="#"> Répondre</a>
 						</div>
 					</div>
 					<div class="comments__item">
@@ -4492,12 +4460,12 @@ if (!isset($rawClick)) {
 						</div>
 						<div class="comments__item-body">
 							<p class="comments__item-content">
-								Спасибо. Искал этот продукт в аптеках, но сказали, что его мало,
+								Спасибо. Я искал этот produit в аптеках, но сказали, что его мало,
 								лучше заказывать через <a href="#">форму</a> на этом сайте.
 							</p>
 						</div>
 						<div class="comments__item-footer">
-							<a class="comments__item-replay" href="#"> Ответить</a>
+							<a class="comments__item-replay" href="#"> Répondre</a>
 						</div>
 					</div>
 				</div>
