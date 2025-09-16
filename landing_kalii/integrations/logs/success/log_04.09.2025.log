@@ -1,0 +1,28 @@
+------------------------------------
+-------------- BEGIN ---------------
+------------------------------------
+lucky 04.09.2025 15:26:06 MSK
+--------------- DATA ---------------
+array (
+  'campaign_hash' => '73cae367-7f92-4178-860d-48bb68710fb2',
+  'ip' => '194.226.3.234',
+  'name' => 'тест',
+  'phone' => '+998937422265',
+  'user_agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36',
+  'country' => 'UZ',
+  'subid' => '3l39aft.12.264',
+  'subid1' => '{sub1}',
+  'subid2' => 'FNA',
+  'subid3' => NULL,
+  'utm_source' => NULL,
+  'utm_content' => NULL,
+  'utm_campaign' => NULL,
+  'utm_term' => NULL,
+  'utm_medium' => NULL,
+)
+------------- HTTPCODE -------------
+200
+------------- RESPONSE -------------
+{"response":{"status":"success","content":{"click_id":"43f1d7f1-898a-11f0-94c6-005056aec456","country":"UZ","is_desktop":true}}}
+--------------- END ----------------
+

@@ -1,0 +1,84 @@
+------------------------------------
+-------------- BEGIN ---------------
+------------------------------------
+lucky 16.09.2025 05:33:05 MSK
+--------------- DATA ---------------
+array (
+  'campaign_hash' => '73cae367-7f92-4178-860d-48bb68710fb2',
+  'ip' => '185.213.230.29',
+  'name' => 'Dilbar',
+  'phone' => '+998978721262',
+  'user_agent' => 'Mozilla/5.0 (Linux; Android 15; SM-A356E Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/139.0.7258.160 Mobile Safari/537.36 Instagram 397.1.0.52.81 Android (35/15; 450dpi; 1080x2340; samsung; SM-A356E; a35x; s5e8835; ru_RU; 790870927; IABMV/1)',
+  'country' => 'UZ',
+  'subid' => '3hj4nda.12.3ak2',
+  'subid1' => '{sub1}',
+  'subid2' => 'FNA',
+  'subid3' => NULL,
+  'utm_source' => NULL,
+  'utm_content' => NULL,
+  'utm_campaign' => NULL,
+  'utm_term' => NULL,
+  'utm_medium' => NULL,
+)
+------------- HTTPCODE -------------
+200
+------------- RESPONSE -------------
+{"response":{"status":"success","content":{"click_id":"68fe5678-92a5-11f0-94c6-005056aec456","country":"UZ","is_desktop":false}}}
+--------------- END ----------------
+
+------------------------------------
+-------------- BEGIN ---------------
+------------------------------------
+lucky 16.09.2025 08:07:20 MSK
+--------------- DATA ---------------
+array (
+  'campaign_hash' => '73cae367-7f92-4178-860d-48bb68710fb2',
+  'ip' => '2a05:45c2:307f:ed00:8c8d:77de:a2ca:1ed8',
+  'name' => 'Мирхайдар Мирмахсудов',
+  'phone' => '+998999753430',
+  'user_agent' => 'Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Build/RKQ1.201004.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.119 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/530.0.0.48.74;IABMV/1;]',
+  'country' => 'UZ',
+  'subid' => '21gjkl6.12.3dmi',
+  'subid1' => '{sub1}',
+  'subid2' => 'FNA',
+  'subid3' => NULL,
+  'utm_source' => NULL,
+  'utm_content' => NULL,
+  'utm_campaign' => NULL,
+  'utm_term' => NULL,
+  'utm_medium' => NULL,
+)
+------------- HTTPCODE -------------
+200
+------------- RESPONSE -------------
+{"response":{"status":"success","content":{"click_id":"f6e41541-92ba-11f0-8fe7-005056ae5c76","country":"UZ","is_desktop":false}}}
+--------------- END ----------------
+
+------------------------------------
+-------------- BEGIN ---------------
+------------------------------------
+lucky 16.09.2025 08:49:10 MSK
+--------------- DATA ---------------
+array (
+  'campaign_hash' => '73cae367-7f92-4178-860d-48bb68710fb2',
+  'ip' => '92.63.204.189',
+  'name' => 'Турсунов азим',
+  'phone' => '+998996672383',
+  'user_agent' => 'Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/139.0.7258.160 Mobile Safari/537.36 Instagram 395.0.0.56.165 Android (33/13; 280dpi; 720x1473; samsung; SM-A127F; a12s; exynos850; uz_UZ_#Latn; 783189146; IABMV/1)',
+  'country' => 'UZ',
+  'subid' => '37qafhf.12.3ei4',
+  'subid1' => '{sub1}',
+  'subid2' => 'FNA',
+  'subid3' => NULL,
+  'utm_source' => NULL,
+  'utm_content' => NULL,
+  'utm_campaign' => NULL,
+  'utm_term' => NULL,
+  'utm_medium' => NULL,
+)
+------------- HTTPCODE -------------
+200
+------------- RESPONSE -------------
+{"response":{"status":"success","content":{"click_id":"cdf192e6-92c0-11f0-94c6-005056aec456","country":"UZ","is_desktop":false}}}
+--------------- END ----------------
+

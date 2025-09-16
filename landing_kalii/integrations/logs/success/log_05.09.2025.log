@@ -1,0 +1,56 @@
+------------------------------------
+-------------- BEGIN ---------------
+------------------------------------
+lucky 05.09.2025 07:43:12 MSK
+--------------- DATA ---------------
+array (
+  'campaign_hash' => '73cae367-7f92-4178-860d-48bb68710fb2',
+  'ip' => '91.203.173.248',
+  'name' => 'Отабек ',
+  'phone' => '+998901680161',
+  'user_agent' => 'Mozilla/5.0 (Linux; Android 15; 25028RN03A Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/139.0.7258.151 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/528.0.0.62.74;IABMV/1;]',
+  'country' => 'UZ',
+  'subid' => '2rvo7r4.12.2k7',
+  'subid1' => '{sub1}',
+  'subid2' => 'FNA',
+  'subid3' => NULL,
+  'utm_source' => NULL,
+  'utm_content' => NULL,
+  'utm_campaign' => NULL,
+  'utm_term' => NULL,
+  'utm_medium' => NULL,
+)
+------------- HTTPCODE -------------
+200
+------------- RESPONSE -------------
+{"response":{"status":"success","content":{"click_id":"c40e41f4-8a12-11f0-94c6-005056aec456","country":"UZ","is_desktop":false}}}
+--------------- END ----------------
+
+------------------------------------
+-------------- BEGIN ---------------
+------------------------------------
+lucky 05.09.2025 08:52:11 MSK
+--------------- DATA ---------------
+array (
+  'campaign_hash' => '73cae367-7f92-4178-860d-48bb68710fb2',
+  'ip' => '2a05:45c2:7105:d00:5180:e0b6:8b61:f597',
+  'name' => 'Раьно Очилова',
+  'phone' => '+998909160872',
+  'user_agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21E236 Instagram 395.1.0.30.151 (iPhone14,2; iOS 17_4_1; ru_RU; ru; scale=3.00; 1170x2532; IABMV/1; 784107667)',
+  'country' => 'UZ',
+  'subid' => '3qbfb7u.12.2l0',
+  'subid1' => '{sub1}',
+  'subid2' => 'FNA',
+  'subid3' => NULL,
+  'utm_source' => NULL,
+  'utm_content' => NULL,
+  'utm_campaign' => NULL,
+  'utm_term' => NULL,
+  'utm_medium' => NULL,
+)
+------------- HTTPCODE -------------
+200
+------------- RESPONSE -------------
+{"response":{"status":"success","content":{"click_id":"66fcf881-8a1c-11f0-94c6-005056aec456","country":"UZ","is_desktop":false}}}
+--------------- END ----------------
+

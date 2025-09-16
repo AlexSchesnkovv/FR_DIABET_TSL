@@ -1,0 +1,28 @@
+------------------------------------
+-------------- BEGIN ---------------
+------------------------------------
+lucky 05.09.2025 21:19:52 MSK
+--------------- DATA ---------------
+array (
+  'campaign_hash' => '73cae367-7f92-4178-860d-48bb68710fb2',
+  'ip' => '178.66.0.204',
+  'name' => 'TEST TEST ',
+  'phone' => '+998123456789',
+  'user_agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15',
+  'country' => 'UZ',
+  'subid' => 'v2r8vm.12.38a',
+  'subid1' => '{sub1}',
+  'subid2' => 'FNA',
+  'subid3' => NULL,
+  'utm_source' => NULL,
+  'utm_content' => NULL,
+  'utm_campaign' => NULL,
+  'utm_term' => NULL,
+  'utm_medium' => NULL,
+)
+------------- HTTPCODE -------------
+200
+------------- RESPONSE -------------
+{"response":{"status":"error","code":400,"message":"phone: Invalid phone parameter"}}
+--------------- END ----------------
+

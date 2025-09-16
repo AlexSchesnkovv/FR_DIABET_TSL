@@ -1,0 +1,756 @@
+------------------------------------
+-------------- BEGIN ---------------
+------------------------------------
+lucky 14.09.2025 04:12:09 MSK
+--------------- DATA ---------------
+array (
+  'campaign_hash' => '73cae367-7f92-4178-860d-48bb68710fb2',
+  'ip' => '92.63.204.58',
+  'name' => 'Тиллохон Комилова',
+  'phone' => '+998889554045',
+  'user_agent' => 'Mozilla/5.0 (Linux; Android 8.1.0; SM-J415FN Build/M1AJQ; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36 Instagram 396.0.0.46.242 Android (27/8.1.0; 280dpi; 720x1480; samsung; SM-J415FN; j4primelte; qcom; ru_RU; 785863892; IABMV/1)',
+  'country' => 'UZ',
+  'subid' => '2hic1ii.12.2l4a',
+  'subid1' => '{sub1}',
+  'subid2' => 'FNA',
+  'subid3' => NULL,
+  'utm_source' => NULL,
+  'utm_content' => NULL,
+  'utm_campaign' => NULL,
+  'utm_term' => NULL,
+  'utm_medium' => NULL,
+)
+------------- HTTPCODE -------------
+200
+------------- RESPONSE -------------
+{"response":{"status":"success","content":{"click_id":"c7804600-9107-11f0-8fe7-005056ae5c76","country":"UZ","is_desktop":false}}}
+--------------- END ----------------
+
+------------------------------------
+-------------- BEGIN ---------------
+------------------------------------
+lucky 14.09.2025 04:31:59 MSK
+--------------- DATA ---------------
+array (
+  'campaign_hash' => '73cae367-7f92-4178-860d-48bb68710fb2',
+  'ip' => '2a05:45c2:5051:200:7455:ed21:bfca:775d',
+  'name' => 'Нодира',
+  'phone' => '+998998293205',
+  'user_agent' => 'Mozilla/5.0 (Linux; Android 13; TFY-LX1 Build/HONORTFY-L31CQ; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/139.0.7258.158 Mobile Safari/537.36 Instagram 385.0.0.47.74 Android (33/13; 480dpi; 1080x2289; HONOR; TFY-LX1; HNTFY-Q; qcom; ru_UZ; 750732404; IABMV/1)',
+  'country' => 'UZ',
+  'subid' => 'r81043.12.2l5f',
+  'subid1' => '{sub1}',
+  'subid2' => 'FNA',
+  'subid3' => NULL,
+  'utm_source' => NULL,
+  'utm_content' => NULL,
+  'utm_campaign' => NULL,
+  'utm_term' => NULL,
+  'utm_medium' => NULL,
+)
+------------- HTTPCODE -------------
+200
+------------- RESPONSE -------------
+{"response":{"status":"success","content":{"click_id":"8b256548-910a-11f0-94c6-005056aec456","country":"UZ","is_desktop":false}}}
+--------------- END ----------------
+
+------------------------------------
+-------------- BEGIN ---------------
+------------------------------------
+lucky 14.09.2025 04:55:07 MSK
+--------------- DATA ---------------
+array (
+  'campaign_hash' => '73cae367-7f92-4178-860d-48bb68710fb2',
+  'ip' => '84.54.84.138',
+  'name' => 'Руслан',
+  'phone' => '+998971111515',
+  'user_agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22G100 Instagram 390.0.0.28.85 (iPhone17,1; iOS 18_6_2; ru_RU; ru; scale=3.00; 1206x2622; IABMV/1; 765313520)',
+  'country' => 'UZ',
+  'subid' => '12q3loh.12.2le3',
+  'subid1' => '{sub1}',
+  'subid2' => 'FNA',
+  'subid3' => NULL,
+  'utm_source' => NULL,
+  'utm_content' => NULL,
+  'utm_campaign' => NULL,
+  'utm_term' => NULL,
+  'utm_medium' => NULL,
+)
+------------- HTTPCODE -------------
+200
+------------- RESPONSE -------------
+{"response":{"status":"success","content":{"click_id":"c6b0c9b3-910d-11f0-94c6-005056aec456","country":"UZ","is_desktop":false}}}
+--------------- END ----------------
+
+------------------------------------
+-------------- BEGIN ---------------
+------------------------------------
+lucky 14.09.2025 05:08:46 MSK
+--------------- DATA ---------------
+array (
+  'campaign_hash' => '73cae367-7f92-4178-860d-48bb68710fb2',
+  'ip' => '188.113.211.235',
+  'name' => 'Зилола',
+  'phone' => '+998938377523',
+  'user_agent' => 'Mozilla/5.0 (Linux; Android 12; SM-A315F Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/139.0.7258.158 Mobile Safari/537.36 Instagram 395.0.0.56.165 Android (31/12; 480dpi; 1080x2177; samsung; SM-A315F; a31; mt6768; ru_RU; 783189146; IABMV/1)',
+  'country' => 'UZ',
+  'subid' => '1srectd.12.2lh5',
+  'subid1' => '{sub1}',
+  'subid2' => 'FNA',
+  'subid3' => NULL,
+  'utm_source' => NULL,
+  'utm_content' => NULL,
+  'utm_campaign' => NULL,
+  'utm_term' => NULL,
+  'utm_medium' => NULL,
+)
+------------- HTTPCODE -------------
+200
+------------- RESPONSE -------------
+{"response":{"status":"success","content":{"click_id":"ae550b29-910f-11f0-94c6-005056aec456","country":"UZ","is_desktop":false}}}
+--------------- END ----------------
+
+------------------------------------
+-------------- BEGIN ---------------
+------------------------------------
+lucky 14.09.2025 05:20:17 MSK
+--------------- DATA ---------------
+array (
+  'campaign_hash' => '73cae367-7f92-4178-860d-48bb68710fb2',
+  'ip' => '188.113.206.129',
+  'name' => 'Махмуд',
+  'phone' => '+998943396169',
+  'user_agent' => 'Mozilla/5.0 (Linux; Android 15; 23021RAAEG Build/AQ3A.240829.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.97 Mobile Safari/537.36 Instagram 397.0.0.46.81 Android (35/15; 440dpi; 1080x2400; Xiaomi/Redmi; 23021RAAEG; tapas; qcom; ru_RU; 788987619; IABMV/1)',
+  'country' => 'UZ',
+  'subid' => '3iu6plr.12.2ljj',
+  'subid1' => '{sub1}',
+  'subid2' => 'FNA',
+  'subid3' => NULL,
+  'utm_source' => NULL,
+  'utm_content' => NULL,
+  'utm_campaign' => NULL,
+  'utm_term' => NULL,
+  'utm_medium' => NULL,
+)
+------------- HTTPCODE -------------
+200
+------------- RESPONSE -------------
+{"response":{"status":"success","content":{"click_id":"4bb7b754-9111-11f0-8fe7-005056ae5c76","country":"UZ","is_desktop":false}}}
+--------------- END ----------------
+
+------------------------------------
+-------------- BEGIN ---------------
+------------------------------------
+lucky 14.09.2025 05:20:52 MSK
+--------------- DATA ---------------
+array (
+  'campaign_hash' => '73cae367-7f92-4178-860d-48bb68710fb2',
+  'ip' => '92.63.204.29',
+  'name' => 'Сайфуддин',
+  'phone' => '+998998800254',
+  'user_agent' => 'Mozilla/5.0 (Linux; Android 12; vivo 1938 Build/SP1A.210812.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/139.0.7258.132 Mobile Safari/537.36 Instagram 394.0.0.46.81 Android (31/12; 320dpi; 720x1411; vivo; vivo 1938; 1938; mt6765; ru_RU; 779659977; IABMV/1)',
+  'country' => 'UZ',
+  'subid' => '28qgr81.12.2ljb',
+  'subid1' => '{sub1}',
+  'subid2' => 'FNA',
+  'subid3' => NULL,
+  'utm_source' => NULL,
+  'utm_content' => NULL,
+  'utm_campaign' => NULL,
+  'utm_term' => NULL,
+  'utm_medium' => NULL,
+)
+------------- HTTPCODE -------------
+200
+------------- RESPONSE -------------
+{"response":{"status":"success","content":{"click_id":"5fb317e4-9111-11f0-94c6-005056aec456","country":"UZ","is_desktop":false}}}
+--------------- END ----------------
+
+------------------------------------
+-------------- BEGIN ---------------
+------------------------------------
+lucky 14.09.2025 05:31:45 MSK
+--------------- DATA ---------------
+array (
+  'campaign_hash' => '73cae367-7f92-4178-860d-48bb68710fb2',
+  'ip' => '185.213.230.170',
+  'name' => 'Александр',
+  'phone' => '+998974427700',
+  'user_agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22G100 Instagram 397.1.0.38.81 (iPhone14,5; iOS 18_6_2; ru_RU; ru; scale=3.00; 960x2079; IABMV/1; 790717060)',
+  'country' => 'UZ',
+  'subid' => 'ja6872.12.2llc',
+  'subid1' => '{sub1}',
+  'subid2' => 'FNA',
+  'subid3' => NULL,
+  'utm_source' => NULL,
+  'utm_content' => NULL,
+  'utm_campaign' => NULL,
+  'utm_term' => NULL,
+  'utm_medium' => NULL,
+)
+------------- HTTPCODE -------------
+200
+------------- RESPONSE -------------
+{"response":{"status":"success","content":{"click_id":"e48a22c7-9112-11f0-94c6-005056aec456","country":"UZ","is_desktop":false}}}
+--------------- END ----------------
+
+------------------------------------
+-------------- BEGIN ---------------
+------------------------------------
+lucky 14.09.2025 06:31:55 MSK
+--------------- DATA ---------------
+array (
+  'campaign_hash' => '73cae367-7f92-4178-860d-48bb68710fb2',
+  'ip' => '95.214.211.209',
+  'name' => '91 339 55 11 ',
+  'phone' => '+998913395511',
+  'user_agent' => 'Mozilla/5.0 (Linux; Android 14; SM-A336E Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.51 Mobile Safari/537.36 Instagram 396.0.0.46.242 Android (34/14; 450dpi; 1080x2185; samsung; SM-A336E; a33x; s5e8825; ru_RU; 785863971; IABMV/1)',
+  'country' => 'UZ',
+  'subid' => '3t9e07.12.2luf',
+  'subid1' => '{sub1}',
+  'subid2' => 'FNA',
+  'subid3' => NULL,
+  'utm_source' => NULL,
+  'utm_content' => NULL,
+  'utm_campaign' => NULL,
+  'utm_term' => NULL,
+  'utm_medium' => NULL,
+)
+------------- HTTPCODE -------------
+200
+------------- RESPONSE -------------
+{"response":{"status":"success","content":{"click_id":"4dd6a2fd-911b-11f0-8fe7-005056ae5c76","country":"UZ","is_desktop":false}}}
+--------------- END ----------------
+
+------------------------------------
+-------------- BEGIN ---------------
+------------------------------------
+lucky 14.09.2025 06:32:51 MSK
+--------------- DATA ---------------
+array (
+  'campaign_hash' => '73cae367-7f92-4178-860d-48bb68710fb2',
+  'ip' => '185.213.229.33',
+  'name' => 'Shaxzoda ABDURAHIMOVA',
+  'phone' => '+998971783747',
+  'user_agent' => 'Mozilla/5.0 (Linux; Android 12; SM-A125F Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.51 Mobile Safari/537.36 Instagram 385.0.0.47.74 Android (31/12; 300dpi; 720x1465; samsung; SM-A125F; a12; mt6765; ru_RU; 750732272; IABMV/1)',
+  'country' => 'UZ',
+  'subid' => '36a7p9p.12.2lqm',
+  'subid1' => '{sub1}',
+  'subid2' => 'FNA',
+  'subid3' => NULL,
+  'utm_source' => NULL,
+  'utm_content' => NULL,
+  'utm_campaign' => NULL,
+  'utm_term' => NULL,
+  'utm_medium' => NULL,
+)
+------------- HTTPCODE -------------
+200
+------------- RESPONSE -------------
+{"response":{"status":"success","content":{"click_id":"6dad2d4c-911b-11f0-94c6-005056aec456","country":"UZ","is_desktop":false}}}
+--------------- END ----------------
+
+------------------------------------
+-------------- BEGIN ---------------
+------------------------------------
+lucky 14.09.2025 06:48:21 MSK
+--------------- DATA ---------------
+array (
+  'campaign_hash' => '73cae367-7f92-4178-860d-48bb68710fb2',
+  'ip' => '2a05:45c2:7160:dd00:b806:77e3:44fc:5f9',
+  'name' => 'Фарход шомуродов',
+  'phone' => '+998974864335',
+  'user_agent' => 'Mozilla/5.0 (Linux; Android 12; SM-A415F Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/139.0.7258.164 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/529.0.0.44.73;IABMV/1;]',
+  'country' => 'UZ',
+  'subid' => 'fr0fe0.12.2m0u',
+  'subid1' => '{sub1}',
+  'subid2' => 'FNA',
+  'subid3' => NULL,
+  'utm_source' => NULL,
+  'utm_content' => NULL,
+  'utm_campaign' => NULL,
+  'utm_term' => NULL,
+  'utm_medium' => NULL,
+)
+------------- HTTPCODE -------------
+200
+------------- RESPONSE -------------
+{"response":{"status":"success","content":{"click_id":"981fe7b7-911d-11f0-94c6-005056aec456","country":"UZ","is_desktop":false}}}
+--------------- END ----------------
+
+------------------------------------
+-------------- BEGIN ---------------
+------------------------------------
+lucky 14.09.2025 07:02:38 MSK
+--------------- DATA ---------------
+array (
+  'campaign_hash' => '73cae367-7f92-4178-860d-48bb68710fb2',
+  'ip' => '92.253.196.166',
+  'name' => 'Гузаль',
+  'phone' => '+998935963757',
+  'user_agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22G100 Instagram 397.1.0.38.81 (iPhone16,2; iOS 18_6_2; ru_RU; ru; scale=3.00; 1125x2436; IABMV/1; 790717060)',
+  'country' => 'UZ',
+  'subid' => '3ot6e50.12.2m2o',
+  'subid1' => '{sub1}',
+  'subid2' => 'FNA',
+  'subid3' => NULL,
+  'utm_source' => NULL,
+  'utm_content' => NULL,
+  'utm_campaign' => NULL,
+  'utm_term' => NULL,
+  'utm_medium' => NULL,
+)
+------------- HTTPCODE -------------
+200
+------------- RESPONSE -------------
+{"response":{"status":"success","content":{"click_id":"97076671-911f-11f0-94c6-005056aec456","country":"UZ","is_desktop":false}}}
+--------------- END ----------------
+
+------------------------------------
+-------------- BEGIN ---------------
+------------------------------------
+lucky 14.09.2025 07:35:53 MSK
+--------------- DATA ---------------
+array (
+  'campaign_hash' => '73cae367-7f92-4178-860d-48bb68710fb2',
+  'ip' => '2a05:45c2:6243:8e00:901b:5dde:453:1190',
+  'name' => 'Азизова лола',
+  'phone' => '+998972891760',
+  'user_agent' => 'Mozilla/5.0 (Linux; Android 11; 220333QPG Build/RD2A.211001.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/139.0.7258.164 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/529.0.0.44.73;IABMV/1;]',
+  'country' => 'UZ',
+  'subid' => '2edl7ie.12.2m6p',
+  'subid1' => '{sub1}',
+  'subid2' => 'FNA',
+  'subid3' => NULL,
+  'utm_source' => NULL,
+  'utm_content' => NULL,
+  'utm_campaign' => NULL,
+  'utm_term' => NULL,
+  'utm_medium' => NULL,
+)
+------------- HTTPCODE -------------
+200
+------------- RESPONSE -------------
+{"response":{"status":"success","content":{"click_id":"3d80226d-9124-11f0-8fe7-005056ae5c76","country":"UZ","is_desktop":false}}}
+--------------- END ----------------
+
+------------------------------------
+-------------- BEGIN ---------------
+------------------------------------
+lucky 14.09.2025 07:57:11 MSK
+--------------- DATA ---------------
+array (
+  'campaign_hash' => '73cae367-7f92-4178-860d-48bb68710fb2',
+  'ip' => '2a05:45c2:73f3:e200:ee5d:12ea:1833:a9ae',
+  'name' => 'Zafar Оманов',
+  'phone' => '+998942882067',
+  'user_agent' => 'Mozilla/5.0 (Linux; Android 15; SM-A336B Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.51 Mobile Safari/537.36 Instagram 397.1.0.52.81 Android (35/15; 480dpi; 1080x2400; samsung; SM-A336B; a33x; s5e8825; ru_RU; 790870970; IABMV/1)',
+  'country' => 'UZ',
+  'subid' => 'iumuh1.12.2ma0',
+  'subid1' => '{sub1}',
+  'subid2' => 'FNA',
+  'subid3' => NULL,
+  'utm_source' => NULL,
+  'utm_content' => NULL,
+  'utm_campaign' => NULL,
+  'utm_term' => NULL,
+  'utm_medium' => NULL,
+)
+------------- HTTPCODE -------------
+200
+------------- RESPONSE -------------
+{"response":{"status":"success","content":{"click_id":"37766dfa-9127-11f0-8fe7-005056ae5c76","country":"UZ","is_desktop":false}}}
+--------------- END ----------------
+
+------------------------------------
+-------------- BEGIN ---------------
+------------------------------------
+lucky 14.09.2025 08:32:43 MSK
+--------------- DATA ---------------
+array (
+  'campaign_hash' => '73cae367-7f92-4178-860d-48bb68710fb2',
+  'ip' => '94.230.230.136',
+  'name' => 'Зульфия',
+  'phone' => '+998978800202',
+  'user_agent' => 'Mozilla/5.0 (Linux; Android 14; SM-A525F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/139.0.7258.160 Mobile Safari/537.36 Instagram 397.1.0.52.81 Android (34/14; 420dpi; 1080x2186; samsung; SM-A525F; a52q; qcom; ru_RU; 790870970; IABMV/1)',
+  'country' => 'UZ',
+  'subid' => 'nphk03.12.2me2',
+  'subid1' => '{sub1}',
+  'subid2' => 'FNA',
+  'subid3' => NULL,
+  'utm_source' => NULL,
+  'utm_content' => NULL,
+  'utm_campaign' => NULL,
+  'utm_term' => NULL,
+  'utm_medium' => NULL,
+)
+------------- HTTPCODE -------------
+200
+------------- RESPONSE -------------
+{"response":{"status":"success","content":{"click_id":"2c7262d2-912c-11f0-94c6-005056aec456","country":"UZ","is_desktop":false}}}
+--------------- END ----------------
+
+------------------------------------
+-------------- BEGIN ---------------
+------------------------------------
+lucky 14.09.2025 08:42:11 MSK
+--------------- DATA ---------------
+array (
+  'campaign_hash' => '73cae367-7f92-4178-860d-48bb68710fb2',
+  'ip' => '185.213.229.54',
+  'name' => 'Зоаир',
+  'phone' => '+998978717447',
+  'user_agent' => 'Mozilla/5.0 (Linux; Android 15; SM-A566E Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/139.0.7258.158 Mobile Safari/537.36 Instagram 397.1.0.52.81 Android (35/15; 450dpi; 1080x2340; samsung; SM-A566E; a56x; s5e8855; ru_RU; 790870927; IABMV/1)',
+  'country' => 'UZ',
+  'subid' => '3m0hd8g.12.2mfd',
+  'subid1' => '{sub1}',
+  'subid2' => 'FNA',
+  'subid3' => NULL,
+  'utm_source' => NULL,
+  'utm_content' => NULL,
+  'utm_campaign' => NULL,
+  'utm_term' => NULL,
+  'utm_medium' => NULL,
+)
+------------- HTTPCODE -------------
+200
+------------- RESPONSE -------------
+{"response":{"status":"success","content":{"click_id":"8069f0df-912d-11f0-8fe7-005056ae5c76","country":"UZ","is_desktop":false}}}
+--------------- END ----------------
+
+------------------------------------
+-------------- BEGIN ---------------
+------------------------------------
+lucky 14.09.2025 09:17:12 MSK
+--------------- DATA ---------------
+array (
+  'campaign_hash' => '73cae367-7f92-4178-860d-48bb68710fb2',
+  'ip' => '92.63.205.145',
+  'name' => 'Нилуфар',
+  'phone' => '+998995747474',
+  'user_agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22F76 Instagram 389.0.0.20.89 (iPhone16,2; iOS 18_5; ru_RU; ru; scale=3.00; 1290x2796; IABMV/1; 761848126)',
+  'country' => 'UZ',
+  'subid' => '3mn1q8.12.2mih',
+  'subid1' => '{sub1}',
+  'subid2' => 'FNA',
+  'subid3' => NULL,
+  'utm_source' => NULL,
+  'utm_content' => NULL,
+  'utm_campaign' => NULL,
+  'utm_term' => NULL,
+  'utm_medium' => NULL,
+)
+------------- HTTPCODE -------------
+200
+------------- RESPONSE -------------
+{"response":{"status":"success","content":{"click_id":"64bcd891-9132-11f0-8fe7-005056ae5c76","country":"UZ","is_desktop":false}}}
+--------------- END ----------------
+
+------------------------------------
+-------------- BEGIN ---------------
+------------------------------------
+lucky 14.09.2025 09:17:12 MSK
+--------------- DATA ---------------
+array (
+  'campaign_hash' => '73cae367-7f92-4178-860d-48bb68710fb2',
+  'ip' => '92.63.205.145',
+  'name' => 'Нилуфар',
+  'phone' => '+998995747474',
+  'user_agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22F76 Instagram 389.0.0.20.89 (iPhone16,2; iOS 18_5; ru_RU; ru; scale=3.00; 1290x2796; IABMV/1; 761848126)',
+  'country' => 'UZ',
+  'subid' => '3mn1q8.12.2mih',
+  'subid1' => '{sub1}',
+  'subid2' => 'FNA',
+  'subid3' => NULL,
+  'utm_source' => NULL,
+  'utm_content' => NULL,
+  'utm_campaign' => NULL,
+  'utm_term' => NULL,
+  'utm_medium' => NULL,
+)
+------------- HTTPCODE -------------
+200
+------------- RESPONSE -------------
+{"response":{"status":"success","content":{"click_id":"6393f8c3-9132-11f0-94c6-005056aec456","country":"UZ","is_desktop":false}}}
+--------------- END ----------------
+
+------------------------------------
+-------------- BEGIN ---------------
+------------------------------------
+lucky 14.09.2025 10:48:48 MSK
+--------------- DATA ---------------
+array (
+  'campaign_hash' => '73cae367-7f92-4178-860d-48bb68710fb2',
+  'ip' => '185.139.139.192',
+  'name' => 'Бекчон',
+  'phone' => '+998339709911',
+  'user_agent' => 'Mozilla/5.0 (Linux; Android 14; SM-A165F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/139.0.7258.158 Mobile Safari/537.36 Instagram 384.0.0.46.83 Android (34/14; 450dpi; 1080x2109; samsung; SM-A165F; a16; mt6789; ru_RU; 746325133; IABMV/1)',
+  'country' => 'UZ',
+  'subid' => 'khnnfp.12.2mt0',
+  'subid1' => '{sub1}',
+  'subid2' => 'FNA',
+  'subid3' => NULL,
+  'utm_source' => NULL,
+  'utm_content' => NULL,
+  'utm_campaign' => NULL,
+  'utm_term' => NULL,
+  'utm_medium' => NULL,
+)
+------------- HTTPCODE -------------
+200
+------------- RESPONSE -------------
+{"response":{"status":"success","content":{"click_id":"307c28bf-913f-11f0-8fe7-005056ae5c76","country":"UZ","is_desktop":false}}}
+--------------- END ----------------
+
+------------------------------------
+-------------- BEGIN ---------------
+------------------------------------
+lucky 14.09.2025 11:14:37 MSK
+--------------- DATA ---------------
+array (
+  'campaign_hash' => '73cae367-7f92-4178-860d-48bb68710fb2',
+  'ip' => '185.213.230.84',
+  'name' => 'Олеся Тягунова',
+  'phone' => '+998934740061',
+  'user_agent' => 'Mozilla/5.0 (Linux; Android 15; 23090RA98G Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/139.0.7258.158 Mobile Safari/537.36 Instagram 395.0.0.56.165 Android (35/15; 610dpi; 1220x2712; Xiaomi/Redmi; 23090RA98G; zircon; mt6886; ru_RU; 783189067; IABMV/1)',
+  'country' => 'UZ',
+  'subid' => '1l3ful7.12.2n0d',
+  'subid1' => '{sub1}',
+  'subid2' => 'FNA',
+  'subid3' => NULL,
+  'utm_source' => NULL,
+  'utm_content' => NULL,
+  'utm_campaign' => NULL,
+  'utm_term' => NULL,
+  'utm_medium' => NULL,
+)
+------------- HTTPCODE -------------
+200
+------------- RESPONSE -------------
+{"response":{"status":"success","content":{"click_id":"cbb4d617-9142-11f0-8fe7-005056ae5c76","country":"UZ","is_desktop":false}}}
+--------------- END ----------------
+
+------------------------------------
+-------------- BEGIN ---------------
+------------------------------------
+lucky 14.09.2025 12:04:07 MSK
+--------------- DATA ---------------
+array (
+  'campaign_hash' => '73cae367-7f92-4178-860d-48bb68710fb2',
+  'ip' => '2a05:45c2:19:c201:6d0e:cb20:1ee9:353c',
+  'name' => 'Лутсия',
+  'phone' => '+998909088566',
+  'user_agent' => 'Mozilla/5.0 (Linux; Android 10; M2006C3LG Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/139.0.7258.158 Mobile Safari/537.36 Instagram 397.1.0.52.81 Android (29/10; 320dpi; 720x1449; Xiaomi/Redmi; M2006C3LG; dandelion; mt6762; ru_RU; 790870956; IABMV/1)',
+  'country' => 'UZ',
+  'subid' => 'o1lahm.12.2n8g',
+  'subid1' => '{sub1}',
+  'subid2' => 'FNA',
+  'subid3' => NULL,
+  'utm_source' => NULL,
+  'utm_content' => NULL,
+  'utm_campaign' => NULL,
+  'utm_term' => NULL,
+  'utm_medium' => NULL,
+)
+------------- HTTPCODE -------------
+200
+------------- RESPONSE -------------
+{"response":{"status":"success","content":{"click_id":"b47b1fbf-9149-11f0-94c6-005056aec456","country":"UZ","is_desktop":false}}}
+--------------- END ----------------
+
+------------------------------------
+-------------- BEGIN ---------------
+------------------------------------
+lucky 14.09.2025 15:16:04 MSK
+--------------- DATA ---------------
+array (
+  'campaign_hash' => '73cae367-7f92-4178-860d-48bb68710fb2',
+  'ip' => '188.113.244.208',
+  'name' => 'Абдурахим',
+  'phone' => '+998931152622',
+  'user_agent' => 'Mozilla/5.0 (Linux; Android 11; SM-A105F Build/RP1A.200720.012; ) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.51 Mobile Safari/537.36 MetaIAB',
+  'country' => 'UZ',
+  'subid' => '38p6l13.12.2o53',
+  'subid1' => '{sub1}',
+  'subid2' => 'FNA',
+  'subid3' => NULL,
+  'utm_source' => NULL,
+  'utm_content' => NULL,
+  'utm_campaign' => NULL,
+  'utm_term' => NULL,
+  'utm_medium' => NULL,
+)
+------------- HTTPCODE -------------
+200
+------------- RESPONSE -------------
+{"response":{"status":"success","content":{"click_id":"856b3329-9164-11f0-94c6-005056aec456","country":"UZ","is_desktop":false}}}
+--------------- END ----------------
+
+------------------------------------
+-------------- BEGIN ---------------
+------------------------------------
+lucky 14.09.2025 16:10:53 MSK
+--------------- DATA ---------------
+array (
+  'campaign_hash' => '73cae367-7f92-4178-860d-48bb68710fb2',
+  'ip' => '185.74.103.240',
+  'name' => 'Надежда Соловьева',
+  'phone' => '+998977702399',
+  'user_agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22G100 Instagram 397.1.0.38.81 (iPhone16,2; iOS 18_6_2; ru_RU; ru; scale=3.00; 1290x2796; IABMV/1; 790717060)',
+  'country' => 'UZ',
+  'subid' => 'jk8nt7.12.2of1',
+  'subid1' => '{sub1}',
+  'subid2' => 'FNA',
+  'subid3' => NULL,
+  'utm_source' => NULL,
+  'utm_content' => NULL,
+  'utm_campaign' => NULL,
+  'utm_term' => NULL,
+  'utm_medium' => NULL,
+)
+------------- HTTPCODE -------------
+200
+------------- RESPONSE -------------
+{"response":{"status":"success","content":{"click_id":"2de8665f-916c-11f0-94c6-005056aec456","country":"UZ","is_desktop":false}}}
+--------------- END ----------------
+
+------------------------------------
+-------------- BEGIN ---------------
+------------------------------------
+lucky 14.09.2025 17:20:50 MSK
+--------------- DATA ---------------
+array (
+  'campaign_hash' => '73cae367-7f92-4178-860d-48bb68710fb2',
+  'ip' => '213.230.86.116',
+  'name' => 'Mmyxida,xobgwse va',
+  'phone' => '+998918372820',
+  'user_agent' => 'Mozilla/5.0 (Linux; Android 15; 25028RN03A Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.97 Mobile Safari/537.36 Instagram 397.1.0.52.81 Android (35/15; 320dpi; 720x1640; Xiaomi/Redmi; 25028RN03A; serenity; serenity; ru_RU; 790870969; IABMV/1)',
+  'country' => 'UZ',
+  'subid' => '24ooihl.12.2opg',
+  'subid1' => '{sub1}',
+  'subid2' => 'FNA',
+  'subid3' => NULL,
+  'utm_source' => NULL,
+  'utm_content' => NULL,
+  'utm_campaign' => NULL,
+  'utm_term' => NULL,
+  'utm_medium' => NULL,
+)
+------------- HTTPCODE -------------
+200
+------------- RESPONSE -------------
+{"response":{"status":"success","content":{"click_id":"f34596f7-9175-11f0-94c6-005056aec456","country":"UZ","is_desktop":false}}}
+--------------- END ----------------
+
+------------------------------------
+-------------- BEGIN ---------------
+------------------------------------
+lucky 14.09.2025 18:58:29 MSK
+--------------- DATA ---------------
+array (
+  'campaign_hash' => '73cae367-7f92-4178-860d-48bb68710fb2',
+  'ip' => '188.113.211.172',
+  'name' => 'Малохат барнаева',
+  'phone' => '+998935147274',
+  'user_agent' => 'Mozilla/5.0 (Linux; Android 15; 23106RN0DA Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.51 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/529.0.0.44.73;IABMV/1;]',
+  'country' => 'UZ',
+  'subid' => 'g9o0vo.12.2p88',
+  'subid1' => '{sub1}',
+  'subid2' => 'FNA',
+  'subid3' => NULL,
+  'utm_source' => NULL,
+  'utm_content' => NULL,
+  'utm_campaign' => NULL,
+  'utm_term' => NULL,
+  'utm_medium' => NULL,
+)
+------------- HTTPCODE -------------
+200
+------------- RESPONSE -------------
+{"response":{"status":"success","content":{"click_id":"98e74496-9183-11f0-8fe7-005056ae5c76","country":"UZ","is_desktop":false}}}
+--------------- END ----------------
+
+------------------------------------
+-------------- BEGIN ---------------
+------------------------------------
+lucky 14.09.2025 22:05:38 MSK
+--------------- DATA ---------------
+array (
+  'campaign_hash' => '73cae367-7f92-4178-860d-48bb68710fb2',
+  'ip' => '31.148.162.35',
+  'name' => 'Азиз',
+  'phone' => '+998977535827',
+  'user_agent' => 'Mozilla/5.0 (Linux; Android 14; SM-A135F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.51 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/530.0.0.48.74;IABMV/1;]',
+  'country' => 'UZ',
+  'subid' => '3c9n9fg.12.2pom',
+  'subid1' => '{sub1}',
+  'subid2' => 'FNA',
+  'subid3' => NULL,
+  'utm_source' => NULL,
+  'utm_content' => NULL,
+  'utm_campaign' => NULL,
+  'utm_term' => NULL,
+  'utm_medium' => NULL,
+)
+------------- HTTPCODE -------------
+200
+------------- RESPONSE -------------
+{"response":{"status":"success","content":{"click_id":"bc3e0558-919d-11f0-94c6-005056aec456","country":"UZ","is_desktop":false}}}
+--------------- END ----------------
+
+------------------------------------
+-------------- BEGIN ---------------
+------------------------------------
+lucky 14.09.2025 22:45:58 MSK
+--------------- DATA ---------------
+array (
+  'campaign_hash' => '73cae367-7f92-4178-860d-48bb68710fb2',
+  'ip' => '94.158.58.177',
+  'name' => 'Хсиитова рашида',
+  'phone' => '+998936067854',
+  'user_agent' => 'Mozilla/5.0 (Linux; Android 13; 23021RAAEG Build/TKQ1.221114.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.97 Mobile Safari/537.36 Instagram 397.1.0.52.81 Android (33/13; 440dpi; 1080x2176; Xiaomi/Redmi; 23021RAAEG; tapas; qcom; ru_RU; 790870866; IABMV/1)',
+  'country' => 'UZ',
+  'subid' => '2heqfo4.12.2pr4',
+  'subid1' => '{sub1}',
+  'subid2' => 'FNA',
+  'subid3' => NULL,
+  'utm_source' => NULL,
+  'utm_content' => NULL,
+  'utm_campaign' => NULL,
+  'utm_term' => NULL,
+  'utm_medium' => NULL,
+)
+------------- HTTPCODE -------------
+200
+------------- RESPONSE -------------
+{"response":{"status":"success","content":{"click_id":"5f117371-91a3-11f0-94c6-005056aec456","country":"UZ","is_desktop":false}}}
+--------------- END ----------------
+
+------------------------------------
+-------------- BEGIN ---------------
+------------------------------------
+lucky 14.09.2025 23:34:46 MSK
+--------------- DATA ---------------
+array (
+  'campaign_hash' => '73cae367-7f92-4178-860d-48bb68710fb2',
+  'ip' => '185.139.137.38',
+  'name' => 'Sharofiddin',
+  'phone' => '+998958604041',
+  'user_agent' => 'Mozilla/5.0 (Linux; Android 14; 22126RN91Y Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/139.0.7258.160 Mobile Safari/537.36 Instagram 384.0.0.46.83 Android (34/14; 320dpi; 720x1507; Xiaomi/Redmi; 22126RN91Y; aether; mt6768; ru_RU; 746325133; IABMV/1)',
+  'country' => 'UZ',
+  'subid' => '3khem.12.2prm',
+  'subid1' => '{sub1}',
+  'subid2' => 'FNA',
+  'subid3' => NULL,
+  'utm_source' => NULL,
+  'utm_content' => NULL,
+  'utm_campaign' => NULL,
+  'utm_term' => NULL,
+  'utm_medium' => NULL,
+)
+------------- HTTPCODE -------------
+200
+------------- RESPONSE -------------
+{"response":{"status":"success","content":{"click_id":"2ffe3f64-91aa-11f0-94c6-005056aec456","country":"UZ","is_desktop":false}}}
+--------------- END ----------------
+

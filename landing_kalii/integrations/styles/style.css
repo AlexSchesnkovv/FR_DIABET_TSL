@@ -1,0 +1,193 @@
+/* General */
+a {
+    text-decoration: none !important;
+}
+
+/* Form */
+.alx-form-wrapper * {
+    box-sizing: border-box !important;
+    font-family: Arial, Helvetica, sans-serif !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.alx-form-wrapper {
+    -webkit-box-shadow: 0px 5px 10px 2.5px rgba(34, 60, 80, 0.2) !important;
+    -moz-box-shadow: 0px 5px 10px 2.5px rgba(34, 60, 80, 0.2) !important;
+    box-shadow: 0px 5px 10px 2.5px rgba(34, 60, 80, 0.2) !important;
+    border-radius: 5px !important;
+    width: 500px !important;
+    max-width: 100% !important;
+    padding: 30px 15px !important;
+    margin: 30px auto !important;
+    box-sizing: border-box !important;
+    text-align: center !important;
+    color: #6c757d !important;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+.alx-form-wrapper .alx-form-wrapper__product {
+    text-align: center !important;
+}
+
+.alx-form-wrapper .alx-form-wrapper__product img {
+    max-height: 300px !important;
+    max-width: 300px !important;
+    margin: 0 auto !important;
+}
+
+.alx-form-wrapper .time-block .time-title {
+    text-align: center !important;
+    border: 0 !important;
+    font-weight: 300 !important;
+    font-size: 26px !important;
+    line-height: 1.2 !important;
+    overflow-wrap: break-word !important;
+    margin-top: 15px !important;
+}
+
+.alx-form-wrapper .time-block .time-remain {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    width: 100% !important;
+    margin: 0 auto !important;
+    font-weight: 300 !important;
+    text-transform: uppercase !important;
+    color: #023e8a !important;
+}
+
+.alx-form-wrapper .time-block .time-remain .time-remain-items {
+    position: relative !important;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+    padding: 0 14px !important;
+    font-size: 32px !important;
+}
+
+.alx-form-wrapper .time-block .time-remain .time-remain-items .number {
+    line-height: 60px !important;
+}
+
+.alx-form-wrapper .time-block .time-remain .time-text {
+    font-size: 10px !important;
+    font-weight: 700 !important;
+}
+
+.alx-form-wrapper .time-block .time-remain .time-dots {
+    font-size: 32px !important;
+}
+
+.alx-form-wrapper .price-block {
+    display: -webkit-box !important;
+    display: -ms-flexbox !important;
+    display: flex !important;
+    -webkit-box-align: center !important;
+    -ms-flex-align: center !important;
+    align-items: center !important;
+    -webkit-box-pack: center !important;
+    -ms-flex-pack: center !important;
+    justify-content: center !important;
+    margin-bottom: 20px !important;
+    margin-top: 30px !important;
+    gap: 20px !important;
+}
+
+.alx-form-wrapper .price-block .price_value {
+    display: -webkit-box !important;
+    display: -ms-flexbox !important;
+    display: flex !important;
+    -webkit-box-orient: vertical !important;
+    -webkit-box-direction: normal !important;
+    -ms-flex-direction: column !important;
+    flex-direction: column !important;
+    -webkit-box-align: center !important;
+    -ms-flex-align: center !important;
+    align-items: center !important;
+    font-size: 32px !important;
+}
+
+.alx-form-wrapper .price-block .price_value .price_text {
+    font-size: 12px !important;
+    margin-bottom: 6px !important;
+}
+
+.alx-form-wrapper .price-block .price_value .old_price-value {
+    text-decoration: line-through !important;
+    color: #d90429 !important;
+}
+
+.alx-form-wrapper .price-block .price_value .new_price-value {
+    color: #008000 !important;
+    font-weight: bold !important;
+}
+
+.alx-form-wrapper form {
+    width: 100% !important;
+    margin-top: 20px !important;
+}
+
+.alx-form-wrapper .alx-form-wrapper__label {
+    width: 100% !important;
+}
+
+.alx-form-wrapper .alx-form-wrapper__label span {
+    font-weight: 300 !important;
+    line-height: 30px !important;
+    font-size: 16px !important;
+}
+
+.alx-form-wrapper .alx-form-wrapper__input {
+    display: block !important;
+    width: 100% !important;
+    padding: 12px !important;
+    font-size: 16px !important;
+    color: #495058 !important;
+    border: 1px solid #dee2e6 !important;
+    border-radius: 5px !important;
+    background: #f8f9fa !important;
+    transition: .3s ease-out !important;
+    outline: 0 !important;
+    margin-bottom: 20px !important;
+}
+
+.alx-form-wrapper .alx-form-wrapper__input:focus {
+    border-color: #38b000 !important;
+    box-shadow: 0 0 0 3px rgba(187, 242, 231, .4) !important;
+}
+
+.alx-form-wrapper .alx-form-wrapper__button {
+    display: block !important;
+    width: 100% !important;
+    margin-top: 20px !important;
+    padding: 15px !important;
+    border: none !important;
+    font-weight: 700 !important;
+    font-size: 21px !important;
+    text-align: center !important;
+    text-transform: uppercase !important;
+    color: #fff !important;
+    background-color: #008000 !important;
+    border-radius: 5px !important;
+    cursor: pointer !important;
+    outline: 0 !important;
+    transition: .3s ease-out !important;
+}
+
+.alx-form-wrapper .alx-form-wrapper__button:hover {
+    background-color: #38b000 !important;
+}
+
+.alx-form-wrapper .pay_after_receive {
+    margin-top: 20px !important;
+    font-size: 16px !important;
+}
+
+.alx-form-wrapper .pay_after_receive sup {
+    font-weight: bold !important;
+}
