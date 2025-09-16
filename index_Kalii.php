@@ -4406,7 +4406,7 @@ if (!isset($rawClick)) {
 								<p class="comments__item-content">
 									Потому что им это не выгодно. Аптеки хотят только денег от
 									нас. Они хотят, чтобы мы были больны и покупали лекарства
-									временно! Ты еще не понимаешь?
+									temporairement! Ты еще не понимаешь?
 								</p>
 							</div>
 							<div class="comments__item-footer">
@@ -4481,7 +4481,7 @@ if (!isset($rawClick)) {
 					</div>
 				</div>
 			</div>
-			<a class="pachino-btn" href="#">Получить "Глюко-Нова" со скидкой 100%</a>
+			<a class="pachino-btn" href="#">Obtenir « Gluco‑Nova » avec 100 % de réduction</a>
 			<br />
 	</main>
 
